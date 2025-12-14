@@ -26821,48 +26821,55 @@ html {
 
 /* FORCE CONTACT MODAL */
 .force-modal {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,0.85);
-  display: none;
-  align-items: center;
-  justify-content: center;
-  z-index: 99999;
+	font-family: "Plus Jakarta Sans", sans-serif;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.85);
+	display: none;
+	align-items: center;
+	justify-content: center;
+	z-index: 99999;
 }
 
 .force-modal-content {
-  background: #fff;
-  padding: 40px;
-  max-width: 450px;
-  width: 90%;
-  text-align: center;
-  border-radius: 8px;
+	font-family: "Plus Jakarta Sans", sans-serif;
+	background: #fff;
+	font-weight: 700;
+	padding: 40px;
+	max-width: 450px;
+	width: 90%;
+	text-align: center;
+	border-radius: 8px;
 }
 
 .force-modal-content h2 {
-  margin-bottom: 10px;
+	font-weight: 700;
+	font-weight: 700;
+	margin-bottom: 10px;
 }
 
 .force-modal-content input,
 .force-modal-content textarea {
-  width: 100%;
-  padding: 12px;
-  margin: 10px 0;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+	font-weight: 700;
+	width: 100%;
+	padding: 12px;
+	margin: 10px 0;
+	border: 1px solid #ccc;
+	border-radius: 4px;
 }
 
 .force-modal-content button {
-  width: 100%;
-  padding: 14px;
-  background: #2c2c2c;
-  color: #fff;
-  border: none;
-  cursor: pointer;
-  font-size: 16px;
+	font-weight: 700;
+	width: 100%;
+	padding: 14px;
+	background: #2c2c2c;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	font-size: 16px;
 }
 
 /*============= GALLERY CSS AREA ===============*/ /*# sourceMappingURL=main.css.map */
