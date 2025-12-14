@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Hosue - Single Property Template</title>
+<title>Vaishnaoi Southwoods - Premium Villas in Shamshabad, Hyderabad</title>
 
 <!--=====FAB ICON=======-->
 <?php if (isset($logo2)): ?>
