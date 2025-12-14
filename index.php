@@ -297,27 +297,12 @@
               <img src="/assets/img/all-images/about/about-img3.png" alt="">
             </div>
             <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/about/about-img3.png" alt="">
+              <img src="/assets/img/all-images/about/about-img10.png" alt="">
             </div>
             <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/about/about-img3.png" alt="">
-            </div>
-            <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/about/about-img3.png" alt="">
+              <img src="/assets/img/all-images/about/about-img11.png" alt="">
             </div>
 
-            <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/about/about-img3.png" alt="">
-            </div>
-            <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/about/about-img3.png" alt="">
-            </div>
-            <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/about/about-img3.png" alt="">
-            </div>
-            <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/about/about-img3.png" alt="">
-            </div>
           </div>
           <div class="space30"></div>
           <div class="row">
@@ -327,21 +312,11 @@
                 <div class="space12"></div>
                 <p>Years Of Experience</p>
                 <div class="space20"></div>
-                <img src="/assets/img/all-images/about/about-img6.png" alt="">
+                <img src="/assets/img/all-images/about/about-img3.png" alt="">
                 <div class="space18"></div>
                 <p>Our Happy Clients</p>
               </div>
               <div class="space30 d-md-none d-block"></div>
-            </div>
-            <div class="col-lg-6 col-md-6">
-              <div class="about-video-area">
-                <div class="img1 image-anime reveal">
-                  <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube"><img src="/assets/img/all-images/about/about-img5.png" alt=""></a>
-                </div>
-                <div class="play-btn">
-                  <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube"><i class="fa-solid fa-play"></i></a>
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -349,7 +324,7 @@
           <div class="space30 d-lg-none d-block"></div>
           <div class="about-widget-images">
             <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/about/about-img4.png" alt="">
+              <img src="/assets/img/all-images/about/about-img13.png" alt="">
             </div>
             <div class="content-area">
               <div class="text">
@@ -381,9 +356,9 @@
       <div class="row">
         <div class="col-lg-5 m-auto">
           <div class="gallery-header heading2 text-center">
-            <h5 data-aos="fade-left" data-aos-duration="800">Building Gallery</h5>
+            <h5 data-aos="fade-left" data-aos-duration="800">Location</h5>
             <div class="space20"></div>
-            <h2 class="text-anime-style-3">Residence Building View</h2>
+            <h2 class="text-anime-style-3">Located at a perfect place, opening many possibilities within reach.</h2>
           </div>
         </div>
       </div>
@@ -394,7 +369,7 @@
       <div class="row">
         <div class="col-lg-10 m-auto">
           <div class="rotate-img">
-            <iframe src="https://momento360.com/e/u/163e1a90974845d988fa0ec66e9b1859?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium&display-plan=true"></iframe>
+            <img src="/assets/img/elements/map.png" alt="">
             <img src="/assets/img/elements/elements3.png" alt="" class="elements3">
           </div>
         </div>

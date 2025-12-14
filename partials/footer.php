@@ -43,43 +43,35 @@
                                     <div class="col-lg-5 col-md-6">
                                         <div class="instagram-posts" data-aos="zoom-in-up" data-aos-duration="800">
                                             <div class="img1">
-                                                <img src="/assets/img/all-images/others/others-img7.png" alt="">
+              <img src="/assets/img/all-images/about/about-img3.png" alt="">
                                             </div>
-                                            <div class="icons">
-                                                <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                            </div>
+
                                         </div>
                                     </div>
                                     <div class="col-lg-7 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
                                         <div class="instagram-posts">
                                             <div class="img1">
-                                                <img src="/assets/img/all-images/others/others-img8.png" alt="">
+              <img src="/assets/img/all-images/about/about-img12.png" alt="">
                                             </div>
-                                            <div class="icons">
-                                                <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                            </div>
+
                                         </div>
                                     </div>
 
                                     <div class="col-lg-7 col-md-6" data-aos="zoom-in-up" data-aos-duration="1100">
                                         <div class="instagram-posts">
                                             <div class="img1">
-                                                <img src="/assets/img/all-images/others/others-img9.png" alt="">
+              <img src="/assets/img/all-images/about/about-img10.png" alt="">
                                             </div>
-                                            <div class="icons">
-                                                <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                            </div>
+
                                         </div>
                                     </div>
 
                                     <div class="col-lg-5 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
                                         <div class="instagram-posts">
                                             <div class="img1">
-                                                <img src="/assets/img/all-images/others/others-img10.png" alt="">
+                                                <img src="/assets/img/all-images/about/about-img11.png" alt="">
                                             </div>
-                                            <div class="icons">
-                                                <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                            </div>
+
                                         </div>
                                     </div>
                                 </div>
