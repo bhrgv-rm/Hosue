@@ -306,18 +306,7 @@
           </div>
           <div class="space30"></div>
           <div class="row">
-            <div class="col-lg-6 col-md-6">
-              <div class="experience-box">
-                <h2><span class="counter">25</span>+</h2>
-                <div class="space12"></div>
-                <p>Years Of Experience</p>
-                <div class="space20"></div>
-                <img src="/assets/img/all-images/about/about-img3.jpg" alt="">
-                <div class="space18"></div>
-                <p>Our Happy Clients</p>
-              </div>
-              <div class="space30 d-md-none d-block"></div>
-            </div>
+            <img src="/assets/img/all-images/about/about-img3.jpg" alt="">
           </div>
         </div>
         <div class="col-lg-6">
