@@ -653,6 +653,47 @@
       </div>
     </div>
   </div>
+
+  <!-- CONTACT US MODAL -->
+<div id="contactModal" class="force-modal">
+  <div class="force-modal-content">
+    <h2>Contact Us</h2>
+    <p>Please fill in the details below to continue browsing.</p>
+
+    <form id="contactForm">
+      <input type="text" name="name" placeholder="Full Name" required>
+      <input type="email" name="email" placeholder="Email Address" required>
+      <input type="tel" name="phone" placeholder="Phone Number" required>
+      <textarea name="message" placeholder="Your Message" required></textarea>
+
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+</div>
+<script>
+  setTimeout(function () {
+    document.getElementById('contactModal').style.display = 'flex';
+    document.body.style.overflow = 'hidden'; // lock scroll
+  }, 60000);
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') {
+      e.preventDefault();
+    }
+  });
+
+  document.getElementById('contactModal').addEventListener('click', function (e) {
+    e.stopPropagation();
+  });
+
+  document.getElementById('contactForm').addEventListener('submit', function (e) {
+    e.preventDefault();
+
+    document.getElementById('contactModal').style.display = 'none';
+    document.body.style.overflow = 'auto';
+  });
+</script>
+
   <!--===== OTHERS AREA ENDS =======-->
 
 
