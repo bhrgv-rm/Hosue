@@ -43,7 +43,7 @@
                                     <div class="col-lg-5 col-md-6">
                                         <div class="instagram-posts" data-aos="zoom-in-up" data-aos-duration="800">
                                             <div class="img1">
-              <img src="/assets/img/all-images/about/about-img3.png" alt="">
+              <img src="/assets/img/all-images/about/about-img3.jpg" alt="">
                                             </div>
 
                                         </div>
@@ -51,7 +51,7 @@
                                     <div class="col-lg-7 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
                                         <div class="instagram-posts">
                                             <div class="img1">
-              <img src="/assets/img/all-images/about/about-img12.png" alt="">
+              <img src="/assets/img/all-images/about/about-img12.jpg" alt="">
                                             </div>
 
                                         </div>

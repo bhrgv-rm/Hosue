@@ -156,7 +156,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="/assets/img/amenities/zen-garden.png" alt="Zen Garden">
+      <img src="/assets/img/a/zen.png" alt="Zen Garden">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -171,7 +171,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="/assets/img/amenities/cabana-pool.png" alt="Cabana with Swimming Pool">
+      <img src="/assets/img/a/swim.png" alt="Cabana with Swimming Pool">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -186,13 +186,13 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="/assets/img/amenities/main-pool.png" alt="Main Pool">
+      <img src="/assets/img/a/movie.png" alt="Main Pool">
     </div>
     <div class="space32"></div>
     <div class="content-area">
-      <a href="#">Main Pool</a>
+      <a href="#">Indoor Theatre</a>
       <div class="space18"></div>
-      <p>A spacious swimming pool designed <br class="d-lg-block d-block"> for refreshment and leisure.</p>
+      <p>A spacious theatre to<br class="d-lg-block d-block"> celebrate or to just chill.</p>
       <h3>03</h3>
     </div>
   </div>
@@ -201,13 +201,13 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="/assets/img/amenities/kids-pool.png" alt="Kids Pool">
+      <img src="/assets/img/a/courts.png" alt="Kids Pool">
     </div>
     <div class="space32"></div>
     <div class="content-area">
-      <a href="#">Kids Pool</a>
+      <a href="#">Courts</a>
       <div class="space18"></div>
-      <p>A safe and fun pool area <br class="d-lg-block d-block"> created for children.</p>
+      <p>A safe and fun area <br class="d-lg-block d-block"> that is open for multiple activities.</p>
       <h3>04</h3>
     </div>
   </div>
@@ -216,7 +216,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="/assets/img/amenities/jogging-track.png" alt="Jogging Track">
+      <img src="/assets/img/a/jog.png" alt="Jogging Track">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -231,7 +231,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="/assets/img/amenities/yoga-deck.png" alt="Yoga and Meditation Deck">
+      <img src="/assets/img/a/yoga.png" alt="Yoga and Meditation Deck">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -246,7 +246,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="/assets/img/amenities/clubhouse.png" alt="Clubhouse">
+      <img src="/assets/img/a/club.png" alt="Clubhouse">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -261,7 +261,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="/assets/img/amenities/arrival-plaza.png" alt="Arrival Plaza">
+      <img src="/assets/img/a/plaza.png" alt="Arrival Plaza">
     </div>
     <div class="space32"></div>
     <div class="content-area">
