@@ -6,7 +6,7 @@
                 <div class="col-lg-12">
                     <div class="header-elements">
                         <div class="site-logo">
-                            <a href="index.php"><img src="assets/img/logo/logo6.png" alt=""></a>
+                            <a href="index.php"><img src="/assets/img/logo/logo6.png" alt=""></a>
                         </div>
                         <div class="main-menu">
                             <ul>
@@ -18,7 +18,7 @@
                                                     <div class="images">
                                                         <div class="homemenu-thumb">
                                                             <div class="img1">
-                                                                <img src="assets/img/all-images/demo/demo-img1.png" alt="">
+                                                                <img src="/assets/img/all-images/demo/demo-img1.png" alt="">
                                                             </div>
 
                                                             <div class="homemenu-btn">
@@ -33,7 +33,7 @@
                                                     <div class="images">
                                                         <div class="homemenu-thumb">
                                                             <div class="img1">
-                                                                <img src="assets/img/all-images/demo/demo-img2.png" alt="">
+                                                                <img src="/assets/img/all-images/demo/demo-img2.png" alt="">
                                                             </div>
                                                             <div class="homemenu-btn">
                                                                 <a class="header-btn7" href="index2.php"> Multi Page</a>
@@ -47,7 +47,7 @@
                                                     <div class="images">
                                                         <div class="homemenu-thumb">
                                                             <div class="img1">
-                                                                <img src="assets/img/all-images/demo/demo-img3.png" alt="">
+                                                                <img src="/assets/img/all-images/demo/demo-img3.png" alt="">
                                                             </div>
                                                             <div class="homemenu-btn">
                                                                 <a class="header-btn7" href="index3.php">Multi Page</a>
@@ -61,7 +61,7 @@
                                                     <div class="images">
                                                         <div class="homemenu-thumb">
                                                             <div class="img1">
-                                                                <img src="assets/img/all-images/demo/demo-img4.png" alt="">
+                                                                <img src="/assets/img/all-images/demo/demo-img4.png" alt="">
                                                             </div>
                                                             <div class="homemenu-btn">
                                                                 <a class="header-btn7" href="index4.php">Multi Page</a>
@@ -75,7 +75,7 @@
                                                     <div class="images">
                                                         <div class="homemenu-thumb" style="margin: 0;">
                                                             <div class="img1">
-                                                                <img src="assets/img/all-images/demo/demo-img5.png" alt="">
+                                                                <img src="/assets/img/all-images/demo/demo-img5.png" alt="">
                                                             </div>
                                                             <div class="homemenu-btn">
                                                                 <a class="header-btn7" href="index5.php">Multi Page</a>
@@ -91,7 +91,7 @@
                                                     <div class="images">
                                                         <div class="homemenu-thumb">
                                                             <div class="img1">
-                                                                <img src="assets/img/all-images/demo/demo-img6.png" alt="">
+                                                                <img src="/assets/img/all-images/demo/demo-img6.png" alt="">
                                                             </div>
 
                                                             <div class="homemenu-btn">
@@ -105,7 +105,7 @@
                                                     <div class="images">
                                                         <div class="homemenu-thumb">
                                                             <div class="img1">
-                                                                <img src="assets/img/all-images/demo/demo-img7.png" alt="">
+                                                                <img src="/assets/img/all-images/demo/demo-img7.png" alt="">
                                                             </div>
 
                                                             <div class="homemenu-btn">
@@ -119,7 +119,7 @@
                                                     <div class="images">
                                                         <div class="homemenu-thumb">
                                                             <div class="img1">
-                                                                <img src="assets/img/all-images/demo/demo-img8.png" alt="">
+                                                                <img src="/assets/img/all-images/demo/demo-img8.png" alt="">
                                                             </div>
 
                                                             <div class="homemenu-btn">
@@ -133,7 +133,7 @@
                                                     <div class="images">
                                                         <div class="homemenu-thumb">
                                                             <div class="img1">
-                                                                <img src="assets/img/all-images/demo/demo-img9.png" alt="">
+                                                                <img src="/assets/img/all-images/demo/demo-img9.png" alt="">
                                                             </div>
 
                                                             <div class="homemenu-btn">
@@ -147,7 +147,7 @@
                                                     <div class="images">
                                                         <div class="homemenu-thumb" style="margin: 0;">
                                                             <div class="img1">
-                                                                <img src="assets/img/all-images/demo/demo-img10.png" alt="">
+                                                                <img src="/assets/img/all-images/demo/demo-img10.png" alt="">
                                                             </div>
 
                                                             <div class="homemenu-btn">
@@ -208,7 +208,7 @@
                         </div>
                         <div class="btn-area6">
                             <div class="search-icon header__search header-search-btn">
-                                <a href="#"><img src="assets/img/icons/search-icon1.svg" alt=""> <span></span></a>
+                                <a href="#"><img src="/assets/img/icons/search-icon1.svg" alt=""> <span></span></a>
                             </div>
                             <ul>
                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
@@ -223,7 +223,7 @@
                             <div class="header-search-container">
                                 <form role="search" class="search-form">
                                     <input type="search" class="search-field" placeholder="Search …" value="" name="s">
-                                    <button type="submit" class="search-submit"><img src="assets/img/icons/search-icon1.svg" alt=""></button>
+                                    <button type="submit" class="search-submit"><img src="/assets/img/icons/search-icon1.svg" alt=""></button>
                                 </form>
                             </div>
                         </div>
@@ -242,7 +242,7 @@
         <div class="col-12">
             <div class="mobile-header-elements">
                 <div class="mobile-logo">
-                    <a href="index.php"><img src="assets/img/logo/logo6.png" alt=""></a>
+                    <a href="index.php"><img src="/assets/img/logo/logo6.png" alt=""></a>
                 </div>
                 <div class="mobile-nav-icon dots-menu">
                     <i class="fa-solid fa-bars"></i>
@@ -255,7 +255,7 @@
 <div class="mobile-sidebar mobile-sidebar6">
     <div class="logosicon-area">
         <div class="logos">
-            <img src="assets/img/logo/logo6.png" alt="">
+            <img src="/assets/img/logo/logo6.png" alt="">
         </div>
         <div class="menu-close">
             <i class="fa-solid fa-xmark"></i>

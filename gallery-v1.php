@@ -16,10 +16,10 @@
   <!--===== HERO AREA STARTS =======-->
   <div class="inner-main-hero-area">
     <div class="img1">
-      <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+      <img src="/assets/img/all-images/hero/hero-img1.png" alt="">
     </div>
     <div class="img2">
-      <img src="assets/img/all-images/hero/hero-img2.png" alt="">
+      <img src="/assets/img/all-images/hero/hero-img2.png" alt="">
     </div>
     <div class="container">
       <div class="row">
@@ -35,7 +35,7 @@
           <div class="auhtor-box">
             <div class="others-box">
               <div class="img3">
-                <img src="assets/img/all-images/others/others-img1.png" alt="">
+                <img src="/assets/img/all-images/others/others-img1.png" alt="">
               </div>
               <div class="text">
                 <h3>Luxury Suite Villa</h3>
@@ -69,7 +69,7 @@
               <div class="col-lg-3 col-md-6">
                 <div class="content-area">
                   <div class="img1">
-                    <img src="assets/img/all-images/gallery/gallery-img2.png" alt="">
+                    <img src="/assets/img/all-images/gallery/gallery-img2.png" alt="">
                   </div>
                   <div class="icons">
                     <a href="gallery-v1.php"><i class="fa-solid fa-plus"></i></a>
@@ -79,7 +79,7 @@
               <div class="col-lg-5 col-md-6">
                 <div class="content-area">
                   <div class="img1">
-                    <img src="assets/img/all-images/gallery/gallery-img3.png" alt="">
+                    <img src="/assets/img/all-images/gallery/gallery-img3.png" alt="">
                   </div>
                   <div class="icons">
                     <a href="gallery-v1.php"><i class="fa-solid fa-plus"></i></a>
@@ -89,7 +89,7 @@
               <div class="col-lg-4 col-md-6">
                 <div class="content-area">
                   <div class="img1">
-                    <img src="assets/img/all-images/gallery/gallery-img5.png" alt="">
+                    <img src="/assets/img/all-images/gallery/gallery-img5.png" alt="">
                   </div>
                   <div class="icons">
                     <a href="gallery-v1.php"><i class="fa-solid fa-plus"></i></a>
@@ -99,7 +99,7 @@
               <div class="col-lg-4 col-md-6">
                 <div class="content-area">
                   <div class="img1">
-                    <img src="assets/img/all-images/gallery/gallery-img6.png" alt="">
+                    <img src="/assets/img/all-images/gallery/gallery-img6.png" alt="">
                   </div>
                   <div class="icons">
                     <a href="gallery-v1.php"><i class="fa-solid fa-plus"></i></a>
@@ -109,7 +109,7 @@
               <div class="col-lg-5 col-md-6">
                 <div class="content-area">
                   <div class="img1">
-                    <img src="assets/img/all-images/gallery/gallery-img7.png" alt="">
+                    <img src="/assets/img/all-images/gallery/gallery-img7.png" alt="">
                   </div>
                   <div class="icons">
                     <a href="gallery-v1.php"><i class="fa-solid fa-plus"></i></a>
@@ -119,7 +119,7 @@
               <div class="col-lg-3 col-md-6">
                 <div class="content-area">
                   <div class="img1">
-                    <img src="assets/img/all-images/gallery/gallery-img8.png" alt="">
+                    <img src="/assets/img/all-images/gallery/gallery-img8.png" alt="">
                   </div>
                   <div class="icons">
                     <a href="gallery-v1.php"><i class="fa-solid fa-plus"></i></a>
@@ -129,7 +129,7 @@
               <div class="col-lg-5 col-md-6">
                 <div class="content-area">
                   <div class="img1">
-                    <img src="assets/img/all-images/gallery/gallery-img9.png" alt="">
+                    <img src="/assets/img/all-images/gallery/gallery-img9.png" alt="">
                   </div>
                   <div class="icons">
                     <a href="gallery-v1.php"><i class="fa-solid fa-plus"></i></a>
@@ -139,7 +139,7 @@
               <div class="col-lg-3 col-md-6">
                 <div class="content-area">
                   <div class="img1">
-                    <img src="assets/img/all-images/gallery/gallery-img10.png" alt="">
+                    <img src="/assets/img/all-images/gallery/gallery-img10.png" alt="">
                   </div>
                   <div class="icons">
                     <a href="gallery-v1.php"><i class="fa-solid fa-plus"></i></a>
@@ -149,7 +149,7 @@
               <div class="col-lg-4 col-md-6">
                 <div class="content-area">
                   <div class="img1">
-                    <img src="assets/img/all-images/gallery/gallery-img11.png" alt="">
+                    <img src="/assets/img/all-images/gallery/gallery-img11.png" alt="">
                   </div>
                   <div class="icons">
                     <a href="gallery-v1.php"><i class="fa-solid fa-plus"></i></a>
@@ -203,15 +203,15 @@
         <div class="col-lg-4 col-md-6">
           <div class="apartment-boxarea">
             <div class="img1">
-              <img src="assets/img/all-images/apartment/apartment-img1.png" alt="">
+              <img src="/assets/img/all-images/apartment/apartment-img1.png" alt="">
             </div>
             <div class="content-area">
               <a href="apartment-single.php">Apartment Complex</a>
               <div class="space16"></div>
               <ul>
-                <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
-                <li><a href="#"><img src="assets/img/icons/bat-icon1.svg" alt="">x2</a> <span> | </span></li>
-                <li><a href="#"><img src="assets/img/icons/squre-icon1.svg" alt="">1200 sq</a></li>
+                <li><a href="#"><img src="/assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
+                <li><a href="#"><img src="/assets/img/icons/bat-icon1.svg" alt="">x2</a> <span> | </span></li>
+                <li><a href="#"><img src="/assets/img/icons/squre-icon1.svg" alt="">1200 sq</a></li>
               </ul>
             </div>
             <div class="arrow">
@@ -223,15 +223,15 @@
         <div class="col-lg-4 col-md-6">
           <div class="apartment-boxarea">
             <div class="img1">
-              <img src="assets/img/all-images/apartment/apartment-img2.png" alt="">
+              <img src="/assets/img/all-images/apartment/apartment-img2.png" alt="">
             </div>
             <div class="content-area">
               <a href="apartment-single.php">Diamond Apartment</a>
               <div class="space16"></div>
               <ul>
-                <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
-                <li><a href="#"><img src="assets/img/icons/bat-icon1.svg" alt="">x2</a> <span> | </span></li>
-                <li><a href="#"><img src="assets/img/icons/squre-icon1.svg" alt="">1400 sq</a></li>
+                <li><a href="#"><img src="/assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
+                <li><a href="#"><img src="/assets/img/icons/bat-icon1.svg" alt="">x2</a> <span> | </span></li>
+                <li><a href="#"><img src="/assets/img/icons/squre-icon1.svg" alt="">1400 sq</a></li>
               </ul>
             </div>
             <div class="arrow">
@@ -243,15 +243,15 @@
         <div class="col-lg-4 col-md-6">
           <div class="apartment-boxarea">
             <div class="img1">
-              <img src="assets/img/all-images/apartment/apartment-img3.png" alt="">
+              <img src="/assets/img/all-images/apartment/apartment-img3.png" alt="">
             </div>
             <div class="content-area">
               <a href="apartment-single.php">Luxury Suite Villa</a>
               <div class="space16"></div>
               <ul>
-                <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
-                <li><a href="#"><img src="assets/img/icons/bat-icon1.svg" alt="">x2</a> <span> | </span></li>
-                <li><a href="#"><img src="assets/img/icons/squre-icon1.svg" alt="">1600 sq</a></li>
+                <li><a href="#"><img src="/assets/img/icons/bed-icon1.svg" alt="">x2</a> <span> | </span></li>
+                <li><a href="#"><img src="/assets/img/icons/bat-icon1.svg" alt="">x2</a> <span> | </span></li>
+                <li><a href="#"><img src="/assets/img/icons/squre-icon1.svg" alt="">1600 sq</a></li>
               </ul>
             </div>
             <div class="arrow">

@@ -6,7 +6,7 @@
                 <div class="col-lg-12">
                     <div class="header-elements">
                         <div class="site-logo">
-                            <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
+                            <a href="index.php"><img src="/assets/img/logo/logo.png" alt=""></a>
                         </div>
                         <a href="contact.php"><button type="submit" class="header-btn4">Contact Us</button></a>
                     </div>
@@ -23,7 +23,7 @@
         <div class="col-12">
             <div class="mobile-header-elements">
                 <div class="mobile-logo">
-                    <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
+                    <a href="index.php"><img src="/assets/img/logo/logo.png" alt=""></a>
                 </div>
                 <div class="mobile-nav-icon dots-menu">
                     <i class="fa-solid fa-bars"></i>
@@ -36,7 +36,7 @@
 <div class="mobile-sidebar mobile-sidebar3">
     <div class="logosicon-area">
         <div class="logos">
-            <img src="assets/img/logo/logo.png" alt="">
+            <img src="/assets/img/logo/logo.png" alt="">
         </div>
         <div class="menu-close">
             <i class="fa-solid fa-xmark"></i>

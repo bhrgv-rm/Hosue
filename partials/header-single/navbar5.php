@@ -16,7 +16,7 @@
                     <nav id="navbar-example2" class="navbar">
                         <div class="header-elements">
                             <div class="site-logo">
-                                <a href="index.php"><img src="assets/img/logo/logo5.png" alt=""></a>
+                                <a href="index.php"><img src="/assets/img/logo/logo5.png" alt=""></a>
                             </div>
                             <div class="main-menu">
                                 <ul>
@@ -30,7 +30,7 @@
                             </div>
                             <div class="btn-area">
                                 <div class="search-icon header__search header-search-btn">
-                                    <a href="#"><img src="assets/img/icons/search-icon1.svg" alt=""> <span></span></a>
+                                    <a href="#"><img src="/assets/img/icons/search-icon1.svg" alt=""> <span></span></a>
                                 </div>
                                 <a href="contact.php" class="header-btn6">Schedule A Visit <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
@@ -40,7 +40,7 @@
                                 <div class="header-search-container">
                                     <form role="search" class="search-form">
                                         <input type="search" class="search-field" placeholder="Search …" value="" name="s">
-                                        <button type="submit" class="search-submit"><img src="assets/img/icons/search-icon1.svg" alt=""></button>
+                                        <button type="submit" class="search-submit"><img src="/assets/img/icons/search-icon1.svg" alt=""></button>
                                     </form>
                                 </div>
                             </div>
@@ -60,7 +60,7 @@
         <div class="col-12">
             <div class="mobile-header-elements">
                 <div class="mobile-logo">
-                    <a href="index.php"><img src="assets/img/logo/logo5.png" alt=""></a>
+                    <a href="index.php"><img src="/assets/img/logo/logo5.png" alt=""></a>
                 </div>
                 <div class="mobile-nav-icon dots-menu">
                     <i class="fa-solid fa-bars"></i>
@@ -73,7 +73,7 @@
 <div class="mobile-sidebar mobile-sidebar5">
     <div class="logosicon-area">
         <div class="logos">
-            <img src="assets/img/logo/logo5.png" alt="">
+            <img src="/assets/img/logo/logo5.png" alt="">
         </div>
         <div class="menu-close">
             <i class="fa-solid fa-xmark"></i>

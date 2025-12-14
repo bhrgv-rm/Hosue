@@ -17,17 +17,17 @@
   <div class="header-carousel-area3 owl-carousel">
     <div class="main-hero-area">
       <div class="img1">
-        <img src="assets/img/all-images/hero/hero-img6.png" alt="">
+        <img src="/assets/img/all-images/hero/hero-img6.png" alt="">
       </div>
       <div class="bg-elements">
-        <img src="assets/img/elements/elements7.png" alt="" class="elements2">
+        <img src="/assets/img/elements/elements7.png" alt="" class="elements2">
       </div>
       <div class="container">
         <div class="row">
           <div class="col-lg-5 col-md-9">
             <div class="header-content-area header-heading">
               <div class="elements">
-                <img src="assets/img/elements/elements3.png" alt="">
+                <img src="/assets/img/elements/elements3.png" alt="">
               </div>
               <div class="header-heading2">
                 <h5><i class="fa-solid fa-location-dot"></i>Shamshabad, Mamidpally, Hyderabad</h5>
@@ -48,17 +48,17 @@
 
     <div class="main-hero-area">
       <div class="img1">
-        <img src="assets/img/all-images/hero/hero-img5.png" alt="">
+        <img src="/assets/img/all-images/hero/hero-img5.png" alt="">
       </div>
       <div class="bg-elements">
-        <img src="assets/img/elements/elements7.png" alt="" class="elements2">
+        <img src="/assets/img/elements/elements7.png" alt="" class="elements2">
       </div>
       <div class="container">
         <div class="row">
           <div class="col-lg-5 col-md-9">
             <div class="header-content-area header-heading">
               <div class="elements">
-                <img src="assets/img/elements/elements3.png" alt="">
+                <img src="/assets/img/elements/elements3.png" alt="">
               </div>
               <div class="header-heading2">
                 <h5><i class="fa-solid fa-location-dot"></i>Shamshabad, Mamidpally, Hyderabad</h5>
@@ -79,17 +79,17 @@
 
     <div class="main-hero-area">
       <div class="img1">
-        <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+        <img src="/assets/img/all-images/hero/hero-img1.png" alt="">
       </div>
       <div class="bg-elements">
-        <img src="assets/img/elements/elements7.png" alt="" class="elements2">
+        <img src="/assets/img/elements/elements7.png" alt="" class="elements2">
       </div>
       <div class="container">
         <div class="row">
           <div class="col-lg-5 col-md-9">
             <div class="header-content-area header-heading">
               <div class="elements">
-                <img src="assets/img/elements/elements3.png" alt="">
+                <img src="/assets/img/elements/elements3.png" alt="">
               </div>
               <div class="header-heading2">
                 <h5><i class="fa-solid fa-location-dot"></i>Shamshabad, Mamidpally, Hyderabad</h5>
@@ -117,13 +117,13 @@
         <div class="col-lg-6">
           <div class="property-images-area">
             <div class="img1 reveal image-anime">
-              <img src="assets/img/all-images/property/property-img4.png" alt="">
+              <img src="/assets/img/all-images/property/property-img4.png" alt="">
             </div>
             <div class="img2 reveal image-anime">
-              <img src="assets/img/all-images/property/property-img5.png" alt="">
+              <img src="/assets/img/all-images/property/property-img5.png" alt="">
             </div>
             <div class="elements reveal image-anime">
-              <img src="assets/img/elements/elements9.png" alt="">
+              <img src="/assets/img/elements/elements9.png" alt="">
             </div>
           </div>
         </div>
@@ -156,7 +156,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="assets/img/amenities/zen-garden.png" alt="Zen Garden">
+      <img src="/assets/img/amenities/zen-garden.png" alt="Zen Garden">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -171,7 +171,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="assets/img/amenities/cabana-pool.png" alt="Cabana with Swimming Pool">
+      <img src="/assets/img/amenities/cabana-pool.png" alt="Cabana with Swimming Pool">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -186,7 +186,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="assets/img/amenities/main-pool.png" alt="Main Pool">
+      <img src="/assets/img/amenities/main-pool.png" alt="Main Pool">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -201,7 +201,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="assets/img/amenities/kids-pool.png" alt="Kids Pool">
+      <img src="/assets/img/amenities/kids-pool.png" alt="Kids Pool">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -216,7 +216,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="assets/img/amenities/jogging-track.png" alt="Jogging Track">
+      <img src="/assets/img/amenities/jogging-track.png" alt="Jogging Track">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -231,7 +231,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="assets/img/amenities/yoga-deck.png" alt="Yoga and Meditation Deck">
+      <img src="/assets/img/amenities/yoga-deck.png" alt="Yoga and Meditation Deck">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -246,7 +246,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="assets/img/amenities/clubhouse.png" alt="Clubhouse">
+      <img src="/assets/img/amenities/clubhouse.png" alt="Clubhouse">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -261,7 +261,7 @@
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
     <div class="img1">
-      <img src="assets/img/amenities/arrival-plaza.png" alt="Arrival Plaza">
+      <img src="/assets/img/amenities/arrival-plaza.png" alt="Arrival Plaza">
     </div>
     <div class="space32"></div>
     <div class="content-area">
@@ -294,29 +294,29 @@
         <div class="col-lg-6">
           <div class="about-slider-area owl-carousel">
             <div class="img1 reveal image-anime">
-              <img src="assets/img/all-images/about/about-img3.png" alt="">
+              <img src="/assets/img/all-images/about/about-img3.png" alt="">
             </div>
             <div class="img1 reveal image-anime">
-              <img src="assets/img/all-images/about/about-img3.png" alt="">
+              <img src="/assets/img/all-images/about/about-img3.png" alt="">
             </div>
             <div class="img1 reveal image-anime">
-              <img src="assets/img/all-images/about/about-img3.png" alt="">
+              <img src="/assets/img/all-images/about/about-img3.png" alt="">
             </div>
             <div class="img1 reveal image-anime">
-              <img src="assets/img/all-images/about/about-img3.png" alt="">
+              <img src="/assets/img/all-images/about/about-img3.png" alt="">
             </div>
 
             <div class="img1 reveal image-anime">
-              <img src="assets/img/all-images/about/about-img3.png" alt="">
+              <img src="/assets/img/all-images/about/about-img3.png" alt="">
             </div>
             <div class="img1 reveal image-anime">
-              <img src="assets/img/all-images/about/about-img3.png" alt="">
+              <img src="/assets/img/all-images/about/about-img3.png" alt="">
             </div>
             <div class="img1 reveal image-anime">
-              <img src="assets/img/all-images/about/about-img3.png" alt="">
+              <img src="/assets/img/all-images/about/about-img3.png" alt="">
             </div>
             <div class="img1 reveal image-anime">
-              <img src="assets/img/all-images/about/about-img3.png" alt="">
+              <img src="/assets/img/all-images/about/about-img3.png" alt="">
             </div>
           </div>
           <div class="space30"></div>
@@ -327,7 +327,7 @@
                 <div class="space12"></div>
                 <p>Years Of Experience</p>
                 <div class="space20"></div>
-                <img src="assets/img/all-images/about/about-img6.png" alt="">
+                <img src="/assets/img/all-images/about/about-img6.png" alt="">
                 <div class="space18"></div>
                 <p>Our Happy Clients</p>
               </div>
@@ -336,7 +336,7 @@
             <div class="col-lg-6 col-md-6">
               <div class="about-video-area">
                 <div class="img1 image-anime reveal">
-                  <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube"><img src="assets/img/all-images/about/about-img5.png" alt=""></a>
+                  <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube"><img src="/assets/img/all-images/about/about-img5.png" alt=""></a>
                 </div>
                 <div class="play-btn">
                   <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube"><i class="fa-solid fa-play"></i></a>
@@ -349,16 +349,16 @@
           <div class="space30 d-lg-none d-block"></div>
           <div class="about-widget-images">
             <div class="img1 reveal image-anime">
-              <img src="assets/img/all-images/about/about-img4.png" alt="">
+              <img src="/assets/img/all-images/about/about-img4.png" alt="">
             </div>
             <div class="content-area">
               <div class="text">
                 <a href="apartment-single.php">Luxury Suite Villa</a>
                 <div class="space20"></div>
                 <ul>
-                  <li><a href="#"><img src="assets/img/icons/bed-icon1.svg" alt=""> x2</a> <span> | </span></li>
-                  <li><a href="#"><img src="assets/img/icons/bat-icon1.svg" alt=""> x2</a> <span> | </span></li>
-                  <li><a href="#"><img src="assets/img/icons/squre-icon1.svg" alt=""> 2000 sq</a></li>
+                  <li><a href="#"><img src="/assets/img/icons/bed-icon1.svg" alt=""> x2</a> <span> | </span></li>
+                  <li><a href="#"><img src="/assets/img/icons/bat-icon1.svg" alt=""> x2</a> <span> | </span></li>
+                  <li><a href="#"><img src="/assets/img/icons/squre-icon1.svg" alt=""> 2000 sq</a></li>
                 </ul>
               </div>
               <div class="arrow">
@@ -366,7 +366,7 @@
               </div>
             </div>
             <div class="elements3">
-              <img src="assets/img/elements/elements3.png" alt="">
+              <img src="/assets/img/elements/elements3.png" alt="">
             </div>
           </div>
         </div>
@@ -395,7 +395,7 @@
         <div class="col-lg-10 m-auto">
           <div class="rotate-img">
             <iframe src="https://momento360.com/e/u/163e1a90974845d988fa0ec66e9b1859?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium&display-plan=true"></iframe>
-            <img src="assets/img/elements/elements3.png" alt="" class="elements3">
+            <img src="/assets/img/elements/elements3.png" alt="" class="elements3">
           </div>
         </div>
       </div>
@@ -424,7 +424,7 @@
           <div class="space86"></div>
           <div class="testimonial-video-area" data-aos="zoom-in-up" data-aos-duration="1000">
             <div class="img1">
-              <img src="assets/img/all-images/testimonial/testimonial-img3.png" alt="">
+              <img src="/assets/img/all-images/testimonial/testimonial-img3.png" alt="">
             </div>
             <div class="icons">
               <a href="https://www.youtube.com/watch?v=Y8XpQpW5OVY" class="popup-youtube"><i class="fa-solid fa-play"></i></a>
@@ -439,7 +439,7 @@
                 <div class="verical-boxarea">
                   <div class="images-area">
                     <div class="img1">
-                      <img src="assets/img/all-images/testimonial/testimonial-img4.png" alt="">
+                      <img src="/assets/img/all-images/testimonial/testimonial-img4.png" alt="">
                     </div>
                     <div class="text">
                       <a href="#">Alexy Queen</a>
@@ -447,7 +447,7 @@
                     </div>
                   </div>
                   <div class="quito">
-                    <img src="assets/img/icons/quoto-icon2.svg" alt="">
+                    <img src="/assets/img/icons/quoto-icon2.svg" alt="">
                   </div>
                 </div>
                 <div class="space24"></div>
@@ -467,7 +467,7 @@
                 <div class="verical-boxarea">
                   <div class="images-area">
                     <div class="img1">
-                      <img src="assets/img/all-images/testimonial/testimonial-img5.png" alt="">
+                      <img src="/assets/img/all-images/testimonial/testimonial-img5.png" alt="">
                     </div>
                     <div class="text">
                       <a href="#">Jofra Archer</a>
@@ -475,7 +475,7 @@
                     </div>
                   </div>
                   <div class="quito">
-                    <img src="assets/img/icons/quoto-icon2.svg" alt="">
+                    <img src="/assets/img/icons/quoto-icon2.svg" alt="">
                   </div>
                 </div>
                 <div class="space24"></div>
@@ -495,7 +495,7 @@
                 <div class="verical-boxarea">
                   <div class="images-area">
                     <div class="img1">
-                      <img src="assets/img/all-images/testimonial/testimonial-img4.png" alt="">
+                      <img src="/assets/img/all-images/testimonial/testimonial-img4.png" alt="">
                     </div>
                     <div class="text">
                       <a href="#">Alexy Queen</a>
@@ -503,7 +503,7 @@
                     </div>
                   </div>
                   <div class="quito">
-                    <img src="assets/img/icons/quoto-icon2.svg" alt="">
+                    <img src="/assets/img/icons/quoto-icon2.svg" alt="">
                   </div>
                 </div>
                 <div class="space24"></div>
@@ -523,7 +523,7 @@
                 <div class="verical-boxarea">
                   <div class="images-area">
                     <div class="img1">
-                      <img src="assets/img/all-images/testimonial/testimonial-img5.png" alt="">
+                      <img src="/assets/img/all-images/testimonial/testimonial-img5.png" alt="">
                     </div>
                     <div class="text">
                       <a href="#">Jofra Archer</a>
@@ -531,7 +531,7 @@
                     </div>
                   </div>
                   <div class="quito">
-                    <img src="assets/img/icons/quoto-icon2.svg" alt="">
+                    <img src="/assets/img/icons/quoto-icon2.svg" alt="">
                   </div>
                 </div>
                 <div class="space24"></div>
@@ -551,7 +551,7 @@
                 <div class="verical-boxarea">
                   <div class="images-area">
                     <div class="img1">
-                      <img src="assets/img/all-images/testimonial/testimonial-img4.png" alt="">
+                      <img src="/assets/img/all-images/testimonial/testimonial-img4.png" alt="">
                     </div>
                     <div class="text">
                       <a href="#">Alexy Queen</a>
@@ -559,7 +559,7 @@
                     </div>
                   </div>
                   <div class="quito">
-                    <img src="assets/img/icons/quoto-icon2.svg" alt="">
+                    <img src="/assets/img/icons/quoto-icon2.svg" alt="">
                   </div>
                 </div>
                 <div class="space24"></div>
@@ -579,7 +579,7 @@
                 <div class="verical-boxarea">
                   <div class="images-area">
                     <div class="img1">
-                      <img src="assets/img/all-images/testimonial/testimonial-img5.png" alt="">
+                      <img src="/assets/img/all-images/testimonial/testimonial-img5.png" alt="">
                     </div>
                     <div class="text">
                       <a href="#">Jofra Archer</a>
@@ -587,7 +587,7 @@
                     </div>
                   </div>
                   <div class="quito">
-                    <img src="assets/img/icons/quoto-icon2.svg" alt="">
+                    <img src="/assets/img/icons/quoto-icon2.svg" alt="">
                   </div>
                 </div>
                 <div class="space24"></div>
@@ -626,13 +626,13 @@
         <div class="col-lg-5">
           <div class="images-area">
             <div class="img1 image-anime reveal">
-              <img src="assets/img/all-images/others/others-img11.png" alt="">
+              <img src="/assets/img/all-images/others/others-img11.png" alt="">
             </div>
             <div class="img2 image-anime reveal">
-              <img src="assets/img/all-images/others/others-img12.png" alt="">
+              <img src="/assets/img/all-images/others/others-img12.png" alt="">
             </div>
             <div class="elements">
-              <img src="assets/img/elements/elements8.png" alt="">
+              <img src="/assets/img/elements/elements8.png" alt="">
             </div>
           </div>
         </div>
