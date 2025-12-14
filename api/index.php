@@ -1,10 +1,7 @@
 <?php
 
-// Get requested path
 $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
-
-// Remove leading slash
-$uri = ltrim($uri, '/');
+$uri = trim($uri, '/');
 
 // Default page
 if ($uri === '' || $uri === 'index') {
@@ -12,7 +9,9 @@ if ($uri === '' || $uri === 'index') {
     exit;
 }
 
-// If file exists, load it
+// Remove .php extension if present
+$uri = preg_replace('/\.php$/', '', $uri);
+
 $file = __DIR__ . '/../' . $uri . '.php';
 
 if (file_exists($file)) {
@@ -20,6 +19,6 @@ if (file_exists($file)) {
     exit;
 }
 
-// 404 fallback
+// 404
 http_response_code(404);
 echo "404 - Page not found";
