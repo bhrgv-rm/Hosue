@@ -17,7 +17,7 @@
   <div class="header-carousel-area3 owl-carousel">
     <div class="main-hero-area">
       <div class="img1">
-        <img src="/assets/img/all-images/hero/hero-img6.png" alt="">
+        <img src="/assets/img/all-images/hero/hero-img6.jpg" alt="">
       </div>
       <div class="bg-elements">
         <img src="/assets/img/elements/elements7.png" alt="" class="elements2">
@@ -48,7 +48,7 @@
 
     <div class="main-hero-area">
       <div class="img1">
-        <img src="/assets/img/all-images/hero/hero-img5.png" alt="">
+        <img src="/assets/img/all-images/hero/hero-img5.jpg" alt="">
       </div>
       <div class="bg-elements">
         <img src="/assets/img/elements/elements7.png" alt="" class="elements2">
@@ -79,7 +79,7 @@
 
     <div class="main-hero-area">
       <div class="img1">
-        <img src="/assets/img/all-images/hero/hero-img1.png" alt="">
+        <img src="/assets/img/all-images/hero/hero-img1.jpg" alt="">
       </div>
       <div class="bg-elements">
         <img src="/assets/img/elements/elements7.png" alt="" class="elements2">
@@ -117,10 +117,10 @@
         <div class="col-lg-6">
           <div class="property-images-area">
             <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/property/property-img4.png" alt="">
+              <img src="/assets/img/all-images/property/property-img4.jpg" alt="">
             </div>
             <div class="img2 reveal image-anime">
-              <img src="/assets/img/all-images/property/property-img5.png" alt="">
+              <img src="/assets/img/all-images/property/property-img5.jpg" alt="">
             </div>
             <div class="elements reveal image-anime">
               <img src="/assets/img/elements/elements9.png" alt="">
@@ -294,13 +294,13 @@
         <div class="col-lg-6">
           <div class="about-slider-area owl-carousel">
             <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/about/about-img3.png" alt="">
+              <img src="/assets/img/all-images/about/about-img3.jpg" alt="">
             </div>
             <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/about/about-img10.png" alt="">
+              <img src="/assets/img/all-images/about/about-img10.jpg" alt="">
             </div>
             <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/about/about-img11.png" alt="">
+              <img src="/assets/img/all-images/about/about-img11.jpg" alt="">
             </div>
 
           </div>
@@ -312,7 +312,7 @@
                 <div class="space12"></div>
                 <p>Years Of Experience</p>
                 <div class="space20"></div>
-                <img src="/assets/img/all-images/about/about-img3.png" alt="">
+                <img src="/assets/img/all-images/about/about-img3.jpg" alt="">
                 <div class="space18"></div>
                 <p>Our Happy Clients</p>
               </div>
@@ -324,7 +324,7 @@
           <div class="space30 d-lg-none d-block"></div>
           <div class="about-widget-images">
             <div class="img1 reveal image-anime">
-              <img src="/assets/img/all-images/about/about-img13.png" alt="">
+              <img src="/assets/img/all-images/about/about-img13.jpg" alt="">
             </div>
             <div class="content-area">
               <div class="text">
@@ -341,7 +341,7 @@
               </div>
             </div>
             <div class="elements3">
-              <img src="/assets/img/elements/elements3.png" alt="">
+              <img src="/assets/img/elements/elements3.jpg" alt="">
             </div>
           </div>
         </div>
@@ -369,7 +369,7 @@
       <div class="row">
         <div class="col-lg-10 m-auto">
           <div class="rotate-img">
-            <img src="/assets/img/elements/map.png" alt="">
+            <img src="/assets/img/elements/map.jpg" alt="">
             <img src="/assets/img/elements/elements3.png" alt="" class="elements3">
           </div>
         </div>
