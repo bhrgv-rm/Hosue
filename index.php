@@ -623,7 +623,6 @@
   <div class="force-modal-content">
     <h2>Contact Us</h2>
     <p style="font-weight: bold; margin-bottom: 12px; text-align:center">Please fill in the details below to continue browsing.</p>
-
     <form id="contactForm">
           <div class="col-lg-12">
       <div class="input-area">
@@ -671,7 +670,6 @@
   document.getElementById('contactModal').addEventListener('click', function (e) {
     e.stopPropagation();
   });
-
   document.getElementById('contactForm').addEventListener('submit', function (e) {
     e.preventDefault();
 
@@ -687,7 +685,7 @@
 
   <?php include('partials/footer-scripts.php'); ?>
 
-<script>
+<script
 document.getElementById("contactForm").addEventListener("submit", function(e) {
   e.preventDefault();
 
