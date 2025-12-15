@@ -7,6 +7,16 @@
                         <div class="site-logo">
                             <a href="index.php"><img src="/assets/img/logo/logo.png" alt=""></a>
                         </div>
+
+                        <div class="main-menu">
+                            <ul>
+                                <li><a href="#property-overview">Overview</a></li>
+                                <li><a href="#amenities">Amenities  </a></li>
+                                <li><a href="#gallery">Gallery</a></li>
+                                <li><a href="#location">Location</a></li>
+                                <li><a href="#plans">Plans</a></li>
+                            </ul>
+                        </div>
                         <a href="contact.php"><button type="submit" class="header-btn4">Contact Us</button></a>
                     </div>
                 </div>

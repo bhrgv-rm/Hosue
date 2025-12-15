@@ -132,7 +132,7 @@
         </div>
         <div class="col-lg-1"></div>
         <div class="col-lg-5">
-          <div class="property-content heading3">
+          <div class="property-content heading3" id="property-overview">
             <h5 data-aos="fade-left" data-aos-duration="800">Property Overview</h5>
             <div class="space20"></div>
             <h2 class="text-anime-style-3">Your Place to Enjoy Outstanding Living</h2>
@@ -179,9 +179,45 @@
   <!--===== PROPERTY AREA ENDS =======-->
 
   <!--===== SERVICE AREA STARTS =======-->
-  <div class="service3-section-area sp1">
+  <div class="service3-section-area sp1" id='amenities'>
+            <div class="col-lg-5 m-auto">
+          <div class="about-header text-center heading3 space-margin60">
+            <h5 data-aos="fade-left" data-aos-duration="800">amenities</h5>
+            <div class="space20"></div>
+            <h2 class="text-anime-style-3">Refined Living, Thoughtfully Crafted in Every Detail</h2>
+          </div>
     <div class="container">
       <div class="row">
+        <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+  <div class="space40 d-lg-block d-none"></div>
+  <div class="amenities-boxarea">
+    <div class="img1">
+      <img src="/assets/img/a/flea.png" alt="Cabana with Swimming Pool">
+    </div>
+    <div class="space32"></div>
+    <div class="content-area">
+      <a href="#">Flea Market</a>
+      <div class="space18"></div>
+      <p>Flea Market just near to <br class="d-lg-block d-block"> to the locality.</p>
+      <h3>01</h3>
+    </div>
+  </div>
+</div>
+<div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+  <div class="space40 d-lg-block d-none"></div>
+  <div class="amenities-boxarea">
+    <div class="img1">
+      <img src="/assets/img/a/lawn.png" alt="Cabana with Swimming Pool">
+    </div>
+    <div class="space32"></div>
+    <div class="content-area">
+      <a href="#">Event Lawn</a>
+      <div class="space18"></div>
+      <p>Spacious lawn with <br class="d-lg-block d-block"> luscious green grass all over.</p>
+      <h3>02</h3>
+    </div>
+  </div>
+</div>
         <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
   <div class="space40 d-lg-block d-none"></div>
   <div class="amenities-boxarea">
@@ -193,7 +229,7 @@
       <a href="#">Zen Garden</a>
       <div class="space18"></div>
       <p>A tranquil landscaped space designed <br class="d-lg-block d-block"> for calm and reflection.</p>
-      <h3>01</h3>
+      <h3>03</h3>
     </div>
   </div>
 </div>
@@ -208,7 +244,7 @@
       <a href="#">Cabana with Swimming Pool</a>
       <div class="space18"></div>
       <p>Poolside cabanas crafted for leisure <br class="d-lg-block d-block"> and private relaxation.</p>
-      <h3>02</h3>
+      <h3>04</h3>
     </div>
   </div>
 </div>
@@ -223,7 +259,7 @@
       <a href="#">Indoor Theatre</a>
       <div class="space18"></div>
       <p>A spacious theatre to<br class="d-lg-block d-block"> celebrate or to just chill.</p>
-      <h3>03</h3>
+      <h3>05</h3>
     </div>
   </div>
 </div>
@@ -238,7 +274,7 @@
       <a href="#">Courts</a>
       <div class="space18"></div>
       <p>A safe and fun area <br class="d-lg-block d-block"> that is open for multiple activities.</p>
-      <h3>04</h3>
+      <h3>06</h3>
     </div>
   </div>
 </div>
@@ -253,7 +289,7 @@
       <a href="#">Jogging Track</a>
       <div class="space18"></div>
       <p>A dedicated track surrounded by greenery <br class="d-lg-block d-block"> for daily fitness.</p>
-      <h3>05</h3>
+      <h3>07</h3>
     </div>
   </div>
 </div>
@@ -268,7 +304,7 @@
       <a href="#">Yoga / Meditation Deck</a>
       <div class="space18"></div>
       <p>A peaceful deck designed for yoga, <br class="d-lg-block d-block"> meditation, and mindfulness.</p>
-      <h3>06</h3>
+      <h3>08</h3>
     </div>
   </div>
 </div>
@@ -283,7 +319,7 @@
       <a href="#">Clubhouse</a>
       <div class="space18"></div>
       <p>A well-equipped clubhouse offering <br class="d-lg-block d-block"> leisure and social spaces.</p>
-      <h3>07</h3>
+      <h3>09</h3>
     </div>
   </div>
 </div>
@@ -298,9 +334,40 @@
       <a href="#">Arrival Plaza</a>
       <div class="space18"></div>
       <p>A grand entrance space designed <br class="d-lg-block d-block"> to make a lasting impression.</p>
-      <h3>08</h3>
+      <h3>10</h3>
     </div>
   </div>
+</div>
+<div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+  <div class="space40 d-lg-block d-none"></div>
+  <div class="amenities-boxarea">
+    <div class="img1">
+      <img src="/assets/img/a/play.png" alt="Arrival Plaza">
+    </div>
+    <div class="space32"></div>
+    <div class="content-area">
+      <a href="#">Children Play Area</a>
+      <div class="space18"></div>
+      <p>A large park with multiple <br class="d-lg-block d-block"> activities for children.</p>
+      <h3>11</h3>
+    </div>
+  </div>
+  <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+  <div class="space40 d-lg-block d-none"></div>
+  <div class="amenities-boxarea">
+    <div class="img1">
+      <img src="/assets/img/a/clinic.png" alt="Arrival Plaza">
+    </div>
+    <div class="space32"></div>
+    <div class="content-area">
+      <a href="#">Clinic / Pharmacy</a>
+      <div class="space18"></div>
+      <p>A well equipped pharmacy <br class="d-lg-block d-block"> within reach.</p>
+      <h3>12</h3>
+    </div>
+  </div>
+</div>
+
 </div>
 <!--  -->
       </div>
@@ -310,7 +377,7 @@
 
   <!--===== ABOUT AREA STARTS =======-->
   <div class="about3-section-area sp6">
-    <div class="container">
+    <div class="container" id='gallery'>
       <div class="row">
         <div class="col-lg-5 m-auto">
           <div class="about-header text-center heading3 space-margin60">
@@ -357,7 +424,7 @@
 
   <!--===== GALLERY AREA STARTS =======-->
   <div class="gallery3-section-area">
-    <div class="container">
+    <div class="container" id='location'>
       <div class="row">
         <div class="col-lg-5 m-auto">
           <div class="gallery-header heading2 text-center">
@@ -387,7 +454,7 @@
 
   <!--===== TESTIMONIAL AREA STARTS =======-->
   <div class="testimonial3-section-area sp6">
-    <div class="container">
+    <div class="container" id='plans'>
       <div class="row">
         <div class="col-lg-5">
           <div class="testimonia-header heading3">
@@ -454,10 +521,10 @@
   </div>
 
   <!-- CONTACT US MODAL -->
-<div id="contactModal" class="force-modal">
+<div id="contactModal" class="force-modal" style="height:fit-content">
   <div class="force-modal-content">
     <h2>Contact Us</h2>
-    <p style="font-weight: bold; margin-bottom: 12px; text-align:center">Please fill in the details below to continue browsing.</p>
+    <p style="font-weight: bold; margin-block: 12px; text-align:center; text-wrap:pretty">Please fill in the details below to continue browsing.</p>
     <form id="contactForm">
           <div class="col-lg-12">
       <div class="input-area">
