@@ -10,12 +10,8 @@
       "dest": "/assets/$1"
     },
     {
-      "routes": [
-        {
-          "src": "^/southwoods/?$",
-          "dest": "/index.php"
-        }
-      ]
+      "src": "^/southwoods/?$",
+      "dest": "/index.php"
     },
     {
       "src": "^/(.*\\.php)$",
