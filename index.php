@@ -626,16 +626,8 @@
 
     <form id="contactForm">
       <input type="text" name="Name" placeholder="Full Name" required>
-      <input type="tel" name="phone" placeholder="Phone Number" required>
-      <select name="Subject" required>
-          <option value="">Select Enquiry*</option>
-          <option value="site_visit">Schedule a Site Visit</option>
-          <option value="price_details">Price & Cost Details</option>
-          <option value="floor_plans">Floor Plans & Layouts</option>
-          <option value="availability">Availability of Villas</option>
-          <option value="brochure_download">Download Brochure</option>
-          <option value="other">Other</option>
-        </select>
+      <input type="tel" name="Phone" placeholder="Phone Number" required>
+      <input name="Subject" value="-" style="display:hidden">
       <textarea name="Message" placeholder="Your Message" required></textarea>
 
       <button type="submit">Submit</button>
@@ -672,6 +664,26 @@
   <?php include('partials/footer.php'); ?>
 
   <?php include('partials/footer-scripts.php'); ?>
+<script>
+document.getElementById("footerContactForm").addEventListener("submit", function(e) {
+  e.preventDefault();
+
+  const formData = new FormData(this);
+
+  fetch("https://script.google.com/macros/s/AKfycbxItC0NSGvqXegjDitYsAUDqnLRGnF2K4I5y0K8GXPxDtBaM58SqIfwyUHEtD3SRm8F/exec", {
+    method: "POST",
+    body: new URLSearchParams(formData)
+  })
+  .then(() => {
+    alert("Thank you! Your message has been sent.");
+    this.reset();
+  })
+  .catch(error => {
+    alert("Something went wrong. Please try again.");
+    console.error(error);
+  });
+});
+</script>
 
 </body>
 
