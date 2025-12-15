@@ -11,7 +11,7 @@
     },
     {
       "src": "^/southwoods/?$",
-      "dest": "/index.php"
+      "dest": "/api/index.php"
     },
     {
       "src": "^/(.*\\.php)$",

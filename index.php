@@ -621,8 +621,8 @@
   <!-- CONTACT US MODAL -->
 <div id="contactModal" class="force-modal">
   <div class="force-modal-content">
-    <h2>Contact sUs</h2>
-    <p>Please fill in the details below to continue browsing.</p>
+    <h2>Contact Us</h2>
+    <p style="font-weight: bold; margin-bottom: 12px; text-align:center">Please fill in the details below to continue browsing.</p>
 
     <form id="contactForm">
           <div class="col-lg-12">
