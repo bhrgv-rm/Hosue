@@ -665,7 +665,7 @@
 
   <?php include('partials/footer-scripts.php'); ?>
 <script>
-document.getElementById("footerContactForm").addEventListener("submit", function(e) {
+document.getElementById("contactForm").addEventListener("submit", function(e) {
   e.preventDefault();
 
   const formData = new FormData(this);
