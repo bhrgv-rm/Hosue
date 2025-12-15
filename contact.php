@@ -48,56 +48,48 @@
                   <div class="space16"></div>
                   <p>Contact us today and let's start your journey to urban living excellence. <br> Our team at Hosue is here answer your questions, schedule viewings.</p>
                   <div class="space12"></div>
-                  <div class="row">
-                    <div class="col-lg-6">
-                      <div class="space20"></div>
-                      <div class="input-area">
-                        <input type="text" placeholder="First Name">
-                      </div>
-                    </div>
+<form id="footerContactForm">
+  <div class="row">
 
-                    <div class="col-lg-6">
-                      <div class="space20"></div>
-                      <div class="input-area">
-                        <input type="email" placeholder="Email">
-                      </div>
-                    </div>
+    <div class="col-lg-6">
+      <div class="input-area">
+        <input type="text" name="Name" placeholder="Your Name*" required>
+      </div>
+    </div>
 
-                    <div class="col-lg-6">
-                      <div class="space20"></div>
-                      <div class="input-area">
-                        <input type="number" placeholder="Phone">
-                      </div>
-                    </div>
+    <div class="col-lg-6">
+      <div class="input-area">
+        <input type="number" name="Mobile" placeholder="Mobile Number*" required>
+      </div>
+    </div>
 
-                    <div class="col-lg-6">
-                      <div class="space20"></div>
-                      <div class="input-area">
-                        <select name="country" class="nice-select">
-                          <option value="1" data-display="Subject*">Subject*</option>
-                          <option value="">Select Enquiry</option>
-                          <option value="site_visit">Schedule a Site Visit</option>
-                          <option value="price_details">Price & Cost Details</option>
-                          <option value="floor_plans">Floor Plans & Layouts</option>
-                          <option value="availability">Availability of Villas</option>
-                          <option value="brochure_download">Download Brochure</option>
-                          <option value="other">Other</option>
-                        </select>
-                      </div>
-                    </div>
-                    <div class="col-lg-12">
-                      <div class="space20"></div>
-                      <div class="input-area">
-                        <textarea placeholder="Your Message*"></textarea>
-                      </div>
-                    </div>
-                    <div class="col-lg-12">
-                      <div class="space32"></div>
-                      <div class="input-area text-end">
-                        <button type="submit" class="header-btn4">Send Message</button>
-                      </div>
-                    </div>
-                  </div>
+    <div class="col-lg-12">
+      <div class="input-area">
+        <select name="Subject" required>
+          <option value="">Select Enquiry*</option>
+          <option value="site_visit">Schedule a Site Visit</option>
+          <option value="price_details">Price & Cost Details</option>
+          <option value="floor_plans">Floor Plans & Layouts</option>
+          <option value="availability">Availability of Villas</option>
+          <option value="brochure_download">Download Brochure</option>
+          <option value="other">Other</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="col-lg-12">
+      <div class="input-area">
+        <textarea name="Message" placeholder="Your Message*" required></textarea>
+      </div>
+    </div>
+
+    <div class="col-lg-12 text-end">
+      <button type="submit" class="header-btn4">Send Message</button>
+    </div>
+
+  </div>
+</form>
+
                 </div>
               </div>
               <div class="col-lg-4">
@@ -151,6 +143,27 @@
   <?php include('partials/footer.php'); ?>
 
   <?php include('partials/footer-scripts.php'); ?>
+<script>
+document.getElementById("contactForm").addEventListener("submit", function(e) {
+  e.preventDefault();
+
+  const formData = new FormData(this);
+
+  fetch("https://script.google.com/macros/s/AKfycbxItC0NSGvqXegjDitYsAUDqnLRGnF2K4I5y0K8GXPxDtBaM58SqIfwyUHEtD3SRm8F/exec", {
+    method: "POST",
+    body: new URLSearchParams(formData)
+  })
+  .then(res => res.text())
+  .then(data => {
+    alert("Form submitted successfully!");
+    this.reset();
+  })
+  .catch(err => {
+    alert("Submission failed");
+    console.error(err);
+  });
+});
+</script>
 
 </body>
 

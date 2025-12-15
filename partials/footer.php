@@ -7,34 +7,59 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="footer-contact-box" data-aos="zoom-in-up" data-aos-duration="1000">
-                                <h3>Send Us A Message</h3>
-                                <div class="space16"></div>
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="space16"></div>
-                                        <div class="input-area">
-                                            <input type="text" placeholder="Your Name*">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div class="space16"></div>
-                                        <div class="input-area">
-                                            <input type="number" placeholder="Mobile Number*">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="space16"></div>
-                                        <div class="input-area">
-                                            <textarea name="#" id="#" placeholder="Your Message*"></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="space32"></div>
-                                        <div class="input-area text-end">
-                                            <button type="submit" class="header-btn4">Send Message</button>
-                                        </div>
-                                    </div>
-                                </div>
+  <h3>Send Us A Message</h3>
+  <div class="space16"></div>
+
+  <form id="footerContactForm">
+    <div class="row">
+
+      <div class="col-lg-6">
+        <div class="space16"></div>
+        <div class="input-area">
+          <input type="text" name="Name" placeholder="Your Name*" required>
+        </div>
+      </div>
+
+      <div class="col-lg-6">
+        <div class="space16"></div>
+        <div class="input-area">
+          <input type="number" name="Mobile" placeholder="Mobile Number*" required>
+        </div>
+      </div>
+
+      <div class="col-lg-12">
+        <div class="space16"></div>
+        <div class="input-area">
+          <select name="Subject" required>
+            <option value="">Select Enquiry*</option>
+            <option value="site_visit">Schedule a Site Visit</option>
+            <option value="price_details">Price & Cost Details</option>
+            <option value="floor_plans">Floor Plans & Layouts</option>
+            <option value="availability">Availability of Villas</option>
+            <option value="brochure_download">Download Brochure</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="col-lg-12">
+        <div class="space16"></div>
+        <div class="input-area">
+          <textarea name="Message" placeholder="Your Message*" required></textarea>
+        </div>
+      </div>
+
+      <div class="col-lg-12">
+        <div class="space32"></div>
+        <div class="input-area text-end">
+          <button type="submit" class="header-btn4">Send Message</button>
+        </div>
+      </div>
+
+    </div>
+  </form>
+</div>
+
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -122,4 +147,26 @@
         </div>
     </div>
 </div>
+
+<script>
+document.getElementById("footerContactForm").addEventListener("submit", function(e) {
+  e.preventDefault();
+
+  const formData = new FormData(this);
+
+  fetch("https://script.google.com/macros/s/AKfycbxItC0NSGvqXegjDitYsAUDqnLRGnF2K4I5y0K8GXPxDtBaM58SqIfwyUHEtD3SRm8F/exec", {
+    method: "POST",
+    body: new URLSearchParams(formData)
+  })
+  .then(() => {
+    alert("Thank you! Your message has been sent.");
+    this.reset();
+  })
+  .catch(error => {
+    alert("Something went wrong. Please try again.");
+    console.error(error);
+  });
+});
+</script>
+
 <!--===== FOOTER AREA ENDS =======-->
