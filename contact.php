@@ -16,7 +16,7 @@
   <!--===== HERO AREA STARTS =======-->
   <div class="inner-main-hero-area">
     <div class="img1">
-      <img src="/assets/img/all-images/hero/hero-img1.png" alt="">
+      <img src="/assets/img/all-images/hero/hero-img1.jpg" alt="">
     </div>
     <div class="img2">
       <img src="/assets/img/all-images/hero/hero-img2.png" alt="">
@@ -63,7 +63,7 @@
       </div>
     </div>
 
-    <div class="col-lg-12">
+    <div class="col-lg-12 mt-4">
       <div class="input-area">
         <select name="Subject" required>
           <option value="">Select Enquiry*</option>
@@ -77,7 +77,7 @@
       </div>
     </div>
 
-    <div class="col-lg-12">
+    <div class="col-lg-12 mt-4">
       <div class="input-area">
         <textarea name="Message" placeholder="Your Message*" required></textarea>
       </div>

@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <?php include('partials/title-meta.php'); ?>
+
+  <?php include('partials/head-css.php'); ?>
+</head>
+
+<body class="homepage3-body">
 <!-- CONTACT US MODAL -->
 <div id="contactModal" class="force-modal">
   <div class="force-modal-content">
@@ -51,3 +61,5 @@
 </form>
   </div>
 </div>
+</body>
+</html>
