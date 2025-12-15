@@ -1,6 +1,10 @@
 <!-- CONTACT US MODAL -->
 <div id="contactModal" class="force-modal">
   <div class="force-modal-content">
+
+    <!-- Close Button -->
+    <button type="button" class="modal-close" aria-label="Close modal">&times;</button>
+
     <h2>Contact Us</h2>
     <p>Please fill in the details below to continue browsing.</p>
 
