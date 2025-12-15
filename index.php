@@ -639,15 +639,7 @@
 
     <div class="col-lg-12 mt-4">
       <div class="input-area">
-        <input name="Subject" value="" style="display:hidden">
-          <option value="">Select Enquiry*</option>
-          <option value="site_visit">Schedule a Site Visit</option>
-          <option value="price_details">Price & Cost Details</option>
-          <option value="floor_plans">Floor Plans & Layouts</option>
-          <option value="availability">Availability of Villas</option>
-          <option value="brochure_download">Download Brochure</option>
-          <option value="other">Other</option>
-        </select>
+        <input name="Subject" value="" style="display:none">
       </div>
     </div>
 
@@ -668,7 +660,7 @@
   setTimeout(function () {
     document.getElementById('contactModal').style.display = 'flex';
     document.body.style.overflow = 'hidden'; // lock scroll
-  }, 600);
+  }, 60000);
 
   document.addEventListener('keydown', function (e) {
     if (e.key === 'Escape') {
