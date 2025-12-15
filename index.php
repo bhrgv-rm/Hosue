@@ -20,7 +20,7 @@
   <div class="header-carousel-area3 owl-carousel">
     <div class="main-hero-area">
       <div class="img1">
-        <img src="/assets/img/all-images/hero/hero-img6.jpg" alt="">
+        <img src="/assets/img/all-images/hero/hero.jpg" alt="">
       </div>
       <div class="bg-elements">
         <img src="/assets/img/elements/elements7.png" alt="" class="elements2">
@@ -178,202 +178,232 @@
   </div>
   <!--===== PROPERTY AREA ENDS =======-->
 
-  <!--===== SERVICE AREA STARTS =======-->
-  <div class="service3-section-area sp1" id='amenities'>
-            <div class="col-lg-5 m-auto">
-          <div class="about-header text-center heading3 space-margin60">
-            <h5 data-aos="fade-left" data-aos-duration="800">amenities</h5>
-            <div class="space20"></div>
-            <h2 class="text-anime-style-3">Refined Living, Thoughtfully Crafted in Every Detail</h2>
+ <!--===== SERVICE AREA STARTS =======-->
+<div class="service3-section-area sp1" id="amenities">
+
+  <div class="col-lg-5 m-auto">
+    <div class="about-header text-center heading3 space-margin60">
+      <h5 data-aos="fade-left" data-aos-duration="800">amenities</h5>
+      <div class="space20"></div>
+      <h2 class="text-anime-style-3">
+        Refined Living, Thoughtfully Crafted in Every Detail
+      </h2>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+
+      <!-- 01 -->
+      <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+        <div class="space40 d-lg-block d-none"></div>
+        <div class="amenities-boxarea">
+          <div class="img1">
+            <img src="/assets/img/a/flea.png" alt="Flea Market">
           </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-  <div class="space40 d-lg-block d-none"></div>
-  <div class="amenities-boxarea">
-    <div class="img1">
-      <img src="/assets/img/a/flea.png" alt="Cabana with Swimming Pool">
-    </div>
-    <div class="space32"></div>
-    <div class="content-area">
-      <a href="#">Flea Market</a>
-      <div class="space18"></div>
-      <p>Flea Market just near to <br class="d-lg-block d-block"> to the locality.</p>
-      <h3>01</h3>
+          <div class="space32"></div>
+          <div class="content-area">
+            <a href="#">Flea Market</a>
+            <div class="space18"></div>
+            <p>Flea Market just near to <br class="d-lg-block d-block"> the locality.</p>
+            <h3>01</h3>
+          </div>
+        </div>
+      </div>
+
+      <!-- 02 -->
+      <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+        <div class="space40 d-lg-block d-none"></div>
+        <div class="amenities-boxarea">
+          <div class="img1">
+            <img src="/assets/img/a/lawn.png" alt="Event Lawn">
+          </div>
+          <div class="space32"></div>
+          <div class="content-area">
+            <a href="#">Event Lawn</a>
+            <div class="space18"></div>
+            <p>Spacious lawn with <br class="d-lg-block d-block"> luscious green grass all over.</p>
+            <h3>02</h3>
+          </div>
+        </div>
+      </div>
+
+      <!-- 03 -->
+      <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+        <div class="space40 d-lg-block d-none"></div>
+        <div class="amenities-boxarea">
+          <div class="img1">
+            <img src="/assets/img/a/zen.png" alt="Zen Garden">
+          </div>
+          <div class="space32"></div>
+          <div class="content-area">
+            <a href="#">Zen Garden</a>
+            <div class="space18"></div>
+            <p>A tranquil landscaped space designed <br class="d-lg-block d-block"> for calm and reflection.</p>
+            <h3>03</h3>
+          </div>
+        </div>
+      </div>
+
+      <!-- 04 -->
+      <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+        <div class="space40 d-lg-block d-none"></div>
+        <div class="amenities-boxarea">
+          <div class="img1">
+            <img src="/assets/img/a/swim.png" alt="Cabana with Swimming Pool">
+          </div>
+          <div class="space32"></div>
+          <div class="content-area">
+            <a href="#">Cabana with Swimming Pool</a>
+            <div class="space18"></div>
+            <p>Poolside cabanas crafted for leisure <br class="d-lg-block d-block"> and private relaxation.</p>
+            <h3>04</h3>
+          </div>
+        </div>
+      </div>
+
+      <!-- 05 -->
+      <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+        <div class="space40 d-lg-block d-none"></div>
+        <div class="amenities-boxarea">
+          <div class="img1">
+            <img src="/assets/img/a/movie.png" alt="Indoor Theatre">
+          </div>
+          <div class="space32"></div>
+          <div class="content-area">
+            <a href="#">Indoor Theatre</a>
+            <div class="space18"></div>
+            <p>A spacious theatre to <br class="d-lg-block d-block"> celebrate or to just chill.</p>
+            <h3>05</h3>
+          </div>
+        </div>
+      </div>
+
+      <!-- 06 -->
+      <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+        <div class="space40 d-lg-block d-none"></div>
+        <div class="amenities-boxarea">
+          <div class="img1">
+            <img src="/assets/img/a/courts.png" alt="Courts">
+          </div>
+          <div class="space32"></div>
+          <div class="content-area">
+            <a href="#">Courts</a>
+            <div class="space18"></div>
+            <p>A safe and fun area <br class="d-lg-block d-block"> that is open for multiple activities.</p>
+            <h3>06</h3>
+          </div>
+        </div>
+      </div>
+
+      <!-- 07 -->
+      <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+        <div class="space40 d-lg-block d-none"></div>
+        <div class="amenities-boxarea">
+          <div class="img1">
+            <img src="/assets/img/a/jog.png" alt="Jogging Track">
+          </div>
+          <div class="space32"></div>
+          <div class="content-area">
+            <a href="#">Jogging Track</a>
+            <div class="space18"></div>
+            <p>A dedicated track surrounded by greenery <br class="d-lg-block d-block"> for daily fitness.</p>
+            <h3>07</h3>
+          </div>
+        </div>
+      </div>
+
+      <!-- 08 -->
+      <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+        <div class="space40 d-lg-block d-none"></div>
+        <div class="amenities-boxarea">
+          <div class="img1">
+            <img src="/assets/img/a/yoga.png" alt="Yoga and Meditation Deck">
+          </div>
+          <div class="space32"></div>
+          <div class="content-area">
+            <a href="#">Yoga / Meditation Deck</a>
+            <div class="space18"></div>
+            <p>A peaceful deck designed for yoga, <br class="d-lg-block d-block"> meditation, and mindfulness.</p>
+            <h3>08</h3>
+          </div>
+        </div>
+      </div>
+
+      <!-- 09 -->
+      <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+        <div class="space40 d-lg-block d-none"></div>
+        <div class="amenities-boxarea">
+          <div class="img1">
+            <img src="/assets/img/a/club.png" alt="Clubhouse">
+          </div>
+          <div class="space32"></div>
+          <div class="content-area">
+            <a href="#">Clubhouse</a>
+            <div class="space18"></div>
+            <p>A well-equipped clubhouse offering <br class="d-lg-block d-block"> leisure and social spaces.</p>
+            <h3>09</h3>
+          </div>
+        </div>
+      </div>
+
+      <!-- 10 -->
+      <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+        <div class="space40 d-lg-block d-none"></div>
+        <div class="amenities-boxarea">
+          <div class="img1">
+            <img src="/assets/img/a/plaza.png" alt="Arrival Plaza">
+          </div>
+          <div class="space32"></div>
+          <div class="content-area">
+            <a href="#">Arrival Plaza</a>
+            <div class="space18"></div>
+            <p>A grand entrance space designed <br class="d-lg-block d-block"> to make a lasting impression.</p>
+            <h3>10</h3>
+          </div>
+        </div>
+      </div>
+
+      <!-- 11 -->
+      <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+        <div class="space40 d-lg-block d-none"></div>
+        <div class="amenities-boxarea">
+          <div class="img1">
+            <img src="/assets/img/a/play.png" alt="Children Play Area">
+          </div>
+          <div class="space32"></div>
+          <div class="content-area">
+            <a href="#">Children Play Area</a>
+            <div class="space18"></div>
+            <p>A large park with multiple <br class="d-lg-block d-block"> activities for children.</p>
+            <h3>11</h3>
+          </div>
+        </div>
+      </div>
+
+      <!-- 12 -->
+      <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+        <div class="space40 d-lg-block d-none"></div>
+        <div class="amenities-boxarea">
+          <div class="img1">
+            <img src="/assets/img/a/clinic.png" alt="Clinic / Pharmacy">
+          </div>
+          <div class="space32"></div>
+          <div class="content-area">
+            <a href="#">Clinic / Pharmacy</a>
+            <div class="space18"></div>
+            <p>A well equipped pharmacy <br class="d-lg-block d-block"> within reach.</p>
+            <h3>12</h3>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
-</div>
-<div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-  <div class="space40 d-lg-block d-none"></div>
-  <div class="amenities-boxarea">
-    <div class="img1">
-      <img src="/assets/img/a/lawn.png" alt="Cabana with Swimming Pool">
-    </div>
-    <div class="space32"></div>
-    <div class="content-area">
-      <a href="#">Event Lawn</a>
-      <div class="space18"></div>
-      <p>Spacious lawn with <br class="d-lg-block d-block"> luscious green grass all over.</p>
-      <h3>02</h3>
-    </div>
-  </div>
-</div>
-        <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-  <div class="space40 d-lg-block d-none"></div>
-  <div class="amenities-boxarea">
-    <div class="img1">
-      <img src="/assets/img/a/zen.png" alt="Zen Garden">
-    </div>
-    <div class="space32"></div>
-    <div class="content-area">
-      <a href="#">Zen Garden</a>
-      <div class="space18"></div>
-      <p>A tranquil landscaped space designed <br class="d-lg-block d-block"> for calm and reflection.</p>
-      <h3>03</h3>
-    </div>
-  </div>
-</div>
-<div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-  <div class="space40 d-lg-block d-none"></div>
-  <div class="amenities-boxarea">
-    <div class="img1">
-      <img src="/assets/img/a/swim.png" alt="Cabana with Swimming Pool">
-    </div>
-    <div class="space32"></div>
-    <div class="content-area">
-      <a href="#">Cabana with Swimming Pool</a>
-      <div class="space18"></div>
-      <p>Poolside cabanas crafted for leisure <br class="d-lg-block d-block"> and private relaxation.</p>
-      <h3>04</h3>
-    </div>
-  </div>
-</div>
-<div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-  <div class="space40 d-lg-block d-none"></div>
-  <div class="amenities-boxarea">
-    <div class="img1">
-      <img src="/assets/img/a/movie.png" alt="Main Pool">
-    </div>
-    <div class="space32"></div>
-    <div class="content-area">
-      <a href="#">Indoor Theatre</a>
-      <div class="space18"></div>
-      <p>A spacious theatre to<br class="d-lg-block d-block"> celebrate or to just chill.</p>
-      <h3>05</h3>
-    </div>
-  </div>
-</div>
-<div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-  <div class="space40 d-lg-block d-none"></div>
-  <div class="amenities-boxarea">
-    <div class="img1">
-      <img src="/assets/img/a/courts.png" alt="Kids Pool">
-    </div>
-    <div class="space32"></div>
-    <div class="content-area">
-      <a href="#">Courts</a>
-      <div class="space18"></div>
-      <p>A safe and fun area <br class="d-lg-block d-block"> that is open for multiple activities.</p>
-      <h3>06</h3>
-    </div>
-  </div>
-</div>
-<div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-  <div class="space40 d-lg-block d-none"></div>
-  <div class="amenities-boxarea">
-    <div class="img1">
-      <img src="/assets/img/a/jog.png" alt="Jogging Track">
-    </div>
-    <div class="space32"></div>
-    <div class="content-area">
-      <a href="#">Jogging Track</a>
-      <div class="space18"></div>
-      <p>A dedicated track surrounded by greenery <br class="d-lg-block d-block"> for daily fitness.</p>
-      <h3>07</h3>
-    </div>
-  </div>
-</div>
-<div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-  <div class="space40 d-lg-block d-none"></div>
-  <div class="amenities-boxarea">
-    <div class="img1">
-      <img src="/assets/img/a/yoga.png" alt="Yoga and Meditation Deck">
-    </div>
-    <div class="space32"></div>
-    <div class="content-area">
-      <a href="#">Yoga / Meditation Deck</a>
-      <div class="space18"></div>
-      <p>A peaceful deck designed for yoga, <br class="d-lg-block d-block"> meditation, and mindfulness.</p>
-      <h3>08</h3>
-    </div>
-  </div>
-</div>
-<div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-  <div class="space40 d-lg-block d-none"></div>
-  <div class="amenities-boxarea">
-    <div class="img1">
-      <img src="/assets/img/a/club.png" alt="Clubhouse">
-    </div>
-    <div class="space32"></div>
-    <div class="content-area">
-      <a href="#">Clubhouse</a>
-      <div class="space18"></div>
-      <p>A well-equipped clubhouse offering <br class="d-lg-block d-block"> leisure and social spaces.</p>
-      <h3>09</h3>
-    </div>
-  </div>
-</div>
-<div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-  <div class="space40 d-lg-block d-none"></div>
-  <div class="amenities-boxarea">
-    <div class="img1">
-      <img src="/assets/img/a/plaza.png" alt="Arrival Plaza">
-    </div>
-    <div class="space32"></div>
-    <div class="content-area">
-      <a href="#">Arrival Plaza</a>
-      <div class="space18"></div>
-      <p>A grand entrance space designed <br class="d-lg-block d-block"> to make a lasting impression.</p>
-      <h3>10</h3>
-    </div>
-  </div>
-</div>
-<div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-  <div class="space40 d-lg-block d-none"></div>
-  <div class="amenities-boxarea">
-    <div class="img1">
-      <img src="/assets/img/a/play.png" alt="Arrival Plaza">
-    </div>
-    <div class="space32"></div>
-    <div class="content-area">
-      <a href="#">Children Play Area</a>
-      <div class="space18"></div>
-      <p>A large park with multiple <br class="d-lg-block d-block"> activities for children.</p>
-      <h3>11</h3>
-    </div>
-  </div>
-  <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-  <div class="space40 d-lg-block d-none"></div>
-  <div class="amenities-boxarea">
-    <div class="img1">
-      <img src="/assets/img/a/clinic.png" alt="Arrival Plaza">
-    </div>
-    <div class="space32"></div>
-    <div class="content-area">
-      <a href="#">Clinic / Pharmacy</a>
-      <div class="space18"></div>
-      <p>A well equipped pharmacy <br class="d-lg-block d-block"> within reach.</p>
-      <h3>12</h3>
-    </div>
-  </div>
-</div>
 
 </div>
-<!--  -->
-      </div>
-    </div>
-  </div>
-  <!--===== SERVICE AREA ENDS =======-->
+<!--===== SERVICE AREA ENDS =======-->
+
 
   <!--===== ABOUT AREA STARTS =======-->
   <div class="about3-section-area sp6">
@@ -521,8 +551,9 @@
   </div>
 
   <!-- CONTACT US MODAL -->
-<div id="contactModal" class="force-modal" style="height:fit-content">
-  <div class="force-modal-content">
+<div id="contactModal" class="force-modal">
+  <div class="force-modal-content" style="height:fit-content">
+    <p style="position: absolute;right: 30px;top: 16px;font-size: 30px;cursor: pointer;" id="close-modal">&times;</p>
     <h2>Contact Us</h2>
     <p style="font-weight: bold; margin-block: 12px; text-align:center; text-wrap:pretty">Please fill in the details below to continue browsing.</p>
     <form id="contactForm">
@@ -622,6 +653,51 @@ document.getElementById("contactForm").addEventListener("submit", function(e) {
   });
 });
 </script>
+
+<script>
+  const modal = document.getElementById("contactModal");
+  const closeBtn = document.getElementById("close-modal");
+
+  // Open modal after delay
+  setTimeout(() => {
+    modal.style.display = "flex";
+    document.body.style.overflow = "hidden";
+  }, 60000);
+
+  // Close modal function
+  function closeModal() {
+    modal.style.display = "none";
+    document.body.style.overflow = "auto";
+  }
+
+  // Close when clicking X
+  closeBtn.addEventListener("click", closeModal);
+
+  // Close when clicking outside modal content
+  modal.addEventListener("click", function (e) {
+    if (e.target === modal) {
+      closeModal();
+    }
+  });
+
+  // Prevent closing when clicking inside content
+  document.querySelector(".force-modal-content").addEventListener("click", function (e) {
+    e.stopPropagation();
+  });
+
+  // Close on ESC key (optional — remove if you want forced modal)
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") {
+      closeModal();
+    }
+  });
+
+  // Close on successful form submit
+  document.getElementById("contactForm").addEventListener("submit", function () {
+    closeModal();
+  });
+</script>
+
 
   <script>
     var swiper = new Swiper(".mySwiper", {
