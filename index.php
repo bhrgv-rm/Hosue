@@ -5,6 +5,9 @@
   <?php include('partials/title-meta.php'); ?>
 
   <?php include('partials/head-css.php'); ?>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
 </head>
 
 <body class="homepage3-body">
@@ -132,12 +135,39 @@
           <div class="property-content heading3">
             <h5 data-aos="fade-left" data-aos-duration="800">Property Overview</h5>
             <div class="space20"></div>
-            <h2 class="text-anime-style-3">Elegance Every Detail Welcome Suite Villa</h2>
+            <h2 class="text-anime-style-3">Your Place to Enjoy Outstanding Living</h2>
             <div class="space16"></div>
-            <p data-aos="fade-left" data-aos-duration="900">Experience elevated living in spacious villas that blend contemporary design with timeless elegance. From wide balconies to private gardens, every detail is created to enhance your lifestyle.</p>
+            <p data-aos="fade-left" data-aos-duration="900">We recognise that you are someone who believes in sharing exclusively with others who share your beliefs, even when the outside world may frequently think otherwise. That's why there are just 260 ultra-luxurious, roomy villas.</p>
             <div class="space16"></div>
-            <p data-aos="fade-left" data-aos-duration="1000">Discover refined living in one of Telangana's most sought-after residential destinations.</p>
-            <div class="space32"></div>
+            <p data-aos="fade-left" data-aos-duration="1000">Welcome to a place where each member of your family can find a personal escape that aligns with their definition of a good life while also coexisting peacefully. And all of this in a place where you are the tallest personality and nothing stands in your way.</p>
+            <div class="space16"></div>
+            <div class="fl-m">
+              <div class="icon-sec flex">
+                <img src="/assets/img/icons/info/info-icon-01.png" alt="">
+                <p>260 4&5 BHK Ultra-Luxurious Villas</p>
+              </div>
+              <div class="icon-sec flex">
+                <img src="/assets/img/icons/info/info-icon-02.png" alt="">
+                <p>300 to 550 sq.yds</p>
+              </div>
+              <div class="icon-sec flex">
+                <img src="/assets/img/icons/info/info-icon-03.png" alt="">
+                <p>43.29 Acre Elite Community</p>
+              </div>
+              <div class="icon-sec flex">
+                <img src="/assets/img/icons/info/info-icon-04.png" alt="">
+                <p>40,000 sq.ft Clubhouse</p>
+              </div>
+              <div class="icon-sec flex">
+                <img src="/assets/img/icons/info/info-icon-05.png" alt="">
+                <p>11 ft Ceiling</p>
+              </div>
+              <div class="icon-sec flex">
+                <img src="/assets/img/icons/info/info-icon-06.png" alt="">
+                <p>20 ft Tall Villa Entrances</p>
+              </div>
+            </div>
+            <div class="space16"></div>
             <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
               <a href="contact.php" class="header-btn4">Contact Us</a>
             </div>
@@ -315,20 +345,6 @@
             <div class="img1 reveal image-anime">
               <img src="/assets/img/all-images/about/about-img13.jpg" alt="">
             </div>
-            <div class="content-area">
-              <div class="text">
-                <a href="apartment-single.php">Luxury Suite Villa</a>
-                <div class="space20"></div>
-                <ul>
-                  <li><a href="#"><img src="/assets/img/icons/bed-icon1.svg" alt=""> x2</a> <span> | </span></li>
-                  <li><a href="#"><img src="/assets/img/icons/bat-icon1.svg" alt=""> x2</a> <span> | </span></li>
-                  <li><a href="#"><img src="/assets/img/icons/squre-icon1.svg" alt=""> 2000 sq</a></li>
-                </ul>
-              </div>
-              <div class="arrow">
-                <a href="apartment-single.php"><i class="fa-solid fa-arrow-right"></i></a>
-              </div>
-            </div>
             <div class="elements3">
               <img src="/assets/img/elements/elements3.png" alt="">
             </div>
@@ -345,7 +361,7 @@
       <div class="row">
         <div class="col-lg-5 m-auto">
           <div class="gallery-header heading2 text-center">
-            <h5 data-aos="fade-left" data-aos-duration="800">Location</h5>
+            <h5 data-aos="fade-left" data-aos-duration="800">our Location</h5>
             <div class="space20"></div>
             <h2 class="text-anime-style-3">Located at a perfect place, opening many possibilities within reach.</h2>
           </div>
@@ -370,7 +386,7 @@
   <!--===== GALLERY AREA ENDS =======-->
 
   <!--===== TESTIMONIAL AREA STARTS =======-->
-  <!-- <div class="testimonial3-section-area sp6">
+  <div class="testimonial3-section-area sp6">
     <div class="container">
       <div class="row">
         <div class="col-lg-5">
@@ -580,7 +596,7 @@
         </div>
       </div>
     </div>
-  </div> -->
+  </div>
   <!--===== TESTIMONIAL AREA ENDS =======-->
 
   <!--===== OTHERS AREA STARTS =======-->
@@ -638,7 +654,7 @@
 
     <div class="col-lg-12 mt-4">
       <div class="input-area">
-        <input name="Subject" value="" style="display:none">
+        <input name="Email" style="padding: 8px; margin-bottom: 12px;border: 1px solid gray; border-radius: 4px; width: 100%;" required>
       </div>
     </div>
 
@@ -649,7 +665,7 @@
     </div>
 
     <div class="col-lg-12 text-end">
-      <button type="submit" class="header-btn4">Send Message</button>
+      <button type="submit" class="header-btn4">Submit</button>
     </div>
 
     </form>

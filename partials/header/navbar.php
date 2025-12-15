@@ -1,4 +1,3 @@
-<!--=====HEADER START=======-->
 <header>
     <div class="header-area homepage3 header header-sticky d-none d-lg-block " id="header">
         <div class="container">
@@ -15,9 +14,6 @@
         </div>
     </div>
 </header>
-<!--=====HEADER END =======-->
-
-<!--===== MOBILE HEADER STARTS =======-->
 <div class="mobile-header mobile-haeder3 d-block d-lg-none">
     <div class="container-fluid">
         <div class="col-12">
@@ -46,4 +42,3 @@
 
     </div>
 </div>
-<!--===== MOBILE HEADER STARTS =======-->

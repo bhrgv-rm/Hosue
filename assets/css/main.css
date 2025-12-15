@@ -26863,4 +26863,18 @@ html {
 	margin-top: 12px !important;
 }
 
-/*============= GALLERY CSS AREA ===============*/ /*# sourceMappingURL=main.css.map */
+.fl-m{
+	display: grid;
+	grid-template-columns: repeat(auto, auto);
+	
+	.icon-sec{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	
+	p{
+		font-family: "Plus Jakarta Sans";
+		font-size: 14px;
+	}
+}

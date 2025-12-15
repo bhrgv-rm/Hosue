@@ -54,7 +54,7 @@
     </div>
 
     <div class="col-lg-6 text-center">
-      <button type="submit" class="header-btn4">Send Message</button>
+      <button type="submit" class="header-btn4">Submit</button>
     </div>
 
   </div>
