@@ -625,21 +625,21 @@
     <p>Please fill in the details below to continue browsing.</p>
 
     <form id="contactForm">
-          <div class="col-lg-6">
+          <div class="col-lg-12">
       <div class="input-area">
-        <input type="text" name="Name" placeholder="Your Name*" required>
+        <input type="text" name="Name" placeholder="Your Name*" style="padding: 8px; border: 1px solid gray; border-radius: 4px; width: 100%;" required>
       </div>
     </div>
 
-    <div class="col-lg-6">
+    <div class="col-lg-12">
       <div class="input-area">
-        <input type="number" name="Mobile" placeholder="Mobile Number*" required>
+        <input type="number" name="Mobile" placeholder="Mobile Number*" style="padding: 8px; border: 1px solid gray; border-radius: 4px; width: 100%;" required>
       </div>
     </div>
 
     <div class="col-lg-12 mt-4">
       <div class="input-area">
-        <select name="Subject" required>
+        <input name="Subject" value="" style="display:hidden">
           <option value="">Select Enquiry*</option>
           <option value="site_visit">Schedule a Site Visit</option>
           <option value="price_details">Price & Cost Details</option>
@@ -653,7 +653,7 @@
 
     <div class="col-lg-12 mt-4">
       <div class="input-area">
-        <textarea name="Message" placeholder="Your Message*" required></textarea>
+        <textarea name="Message" placeholder="Your Message*" style="padding: 8px; border: 1px solid gray; border-radius: 4px; width: 100%;" required></textarea>
       </div>
     </div>
 
