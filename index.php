@@ -627,13 +627,13 @@
     <form id="contactForm">
           <div class="col-lg-12">
       <div class="input-area">
-        <input type="text" name="Name" placeholder="Your Name*" style="padding: 8px; border: 1px solid gray; border-radius: 4px; width: 100%;" required>
+        <input type="text" name="Name" placeholder="Your Name*" style="padding: 8px; border: 1px solid gray; margin-bottom: 12px;border-radius: 4px; width: 100%;" required>
       </div>
     </div>
 
     <div class="col-lg-12">
       <div class="input-area">
-        <input type="number" name="Mobile" placeholder="Mobile Number*" style="padding: 8px; border: 1px solid gray; border-radius: 4px; width: 100%;" required>
+        <input type="number" name="Mobile" placeholder="Mobile Number*" style="padding: 8px; margin-bottom: 12px;border: 1px solid gray; border-radius: 4px; width: 100%;" required>
       </div>
     </div>
 
