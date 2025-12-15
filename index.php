@@ -646,7 +646,7 @@
   setTimeout(function () {
     document.getElementById('contactModal').style.display = 'flex';
     document.body.style.overflow = 'hidden'; // lock scroll
-  }, 60000);
+  }, 600);
 
   document.addEventListener('keydown', function (e) {
     if (e.key === 'Escape') {
