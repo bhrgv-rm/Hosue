@@ -396,21 +396,23 @@
             <p data-aos="fade-left" data-aos-duration="1000">Indulge in the epitome of luxury living at Luxury, where every <br class="d-lg-block d-none"> amenity is meticulously designed to elevate your lifestyle.</p>
             <div class="space32"></div>
           </div>
-        </div><div class="swiper mySwiper">
-    <div class="swiper-wrapper">
-      <div class="swiper-slide">Slide 1</div>
-      <div class="swiper-slide">Slide 2</div>
-      <div class="swiper-slide">Slide 3</div>
-      <div class="swiper-slide">Slide 4</div>
-      <div class="swiper-slide">Slide 5</div>
-      <div class="swiper-slide">Slide 6</div>
-      <div class="swiper-slide">Slide 7</div>
-      <div class="swiper-slide">Slide 8</div>
-      <div class="swiper-slide">Slide 9</div>
-    </div>
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-  </div>
+        </div>
+        <div class="swiper mySwiper">
+          <div class="swiper-wrapper">
+            <img src="https://vaishnaoigroup.com/southwoods/assets/img/info-east-slider-img-01.webp" class="swiper-slide" alt="">
+            <img src="https://vaishnaoigroup.com/southwoods/assets/img/info-east-slider-img-02.webp" class="swiper-slide" alt="">
+            <img src="https://vaishnaoigroup.com/southwoods/assets/img/info-east-slider-img-03.webp" class="swiper-slide" alt="">
+            <img src="https://vaishnaoigroup.com/southwoods/assets/img/info-east-slider-img-04.webp" class="swiper-slide" alt="">
+            <img src="https://vaishnaoigroup.com/southwoods/assets/img/info-east-slider-img-07.webp" class="swiper-slide" alt="">
+            <img src="https://vaishnaoigroup.com/southwoods/assets/img/info-west-slider-img-01.webp" class="swiper-slide" alt="">
+            <img src="https://vaishnaoigroup.com/southwoods/assets/img/info-west-slider-img-02.webp" class="swiper-slide" alt="">
+            <img src="https://vaishnaoigroup.com/southwoods/assets/img/info-west-slider-img-03.webp" class="swiper-slide" alt="">
+            <img src="https://vaishnaoigroup.com/southwoods/assets/img/info-west-slider-img-04.webp" class="swiper-slide" alt="">
+            <img src="https://vaishnaoigroup.com/southwoods/assets/img/info-west-slider-img-07.webp" class="swiper-slide" alt="">
+          </div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
       </div>
     </div>
   </div>
