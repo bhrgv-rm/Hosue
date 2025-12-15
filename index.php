@@ -621,8 +621,8 @@
   <!-- CONTACT US MODAL -->
 <div id="contactModal" class="force-modal">
   <div class="force-modal-content">
-    <h2>Contact sUs</h2>
-    <p>Please fill in the details below to continue browsing.</p>
+    <h2>Contact Us</h2>
+    <p style="font-weight: bold; margin-bottom: 12px; text-align:center">Please fill in the details below to continue browsing.</p>
 
     <form id="contactForm">
           <div class="col-lg-12">
@@ -686,26 +686,43 @@
   <?php include('partials/footer.php'); ?>
 
   <?php include('partials/footer-scripts.php'); ?>
+
 <script>
 document.getElementById("contactForm").addEventListener("submit", function(e) {
   e.preventDefault();
 
-  const formData = new FormData(this);
+  const form = this;
+  const submitBtn = form.querySelector("button[type='submit']");
+  const originalText = submitBtn.innerText;
+
+  submitBtn.disabled = true;
+  submitBtn.innerText = "Submitting...";
+
+  const formData = new FormData(form);
 
   fetch("https://script.google.com/macros/s/AKfycbxItC0NSGvqXegjDitYsAUDqnLRGnF2K4I5y0K8GXPxDtBaM58SqIfwyUHEtD3SRm8F/exec", {
     method: "POST",
     body: new URLSearchParams(formData)
   })
-  .then(() => {
-    alert("Thank you! Your message has been sent.");
-    this.reset();
+  .then(res => res.text())
+  .then(data => {
+    submitBtn.innerText = "Submitted";
+    form.reset();
+
+    // Reset button after 5 seconds
+    setTimeout(() => {
+      submitBtn.innerText = originalText;
+      submitBtn.disabled = false;
+    }, 5000);
   })
-  .catch(error => {
-    alert("Something went wrong. Please try again.");
-    console.error(error);
+  .catch(err => {
+    console.error(err);
+    submitBtn.innerText = originalText;
+    submitBtn.disabled = false;
   });
 });
 </script>
+
 
 </body>
 

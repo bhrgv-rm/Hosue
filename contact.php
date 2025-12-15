@@ -143,11 +143,19 @@
   <?php include('partials/footer.php'); ?>
 
   <?php include('partials/footer-scripts.php'); ?>
-<script>
-document.getElementById("contactForm").addEventListener("submit", function(e) {
+
+  <script>
+document.getElementById("footerContactForm").addEventListener("submit", function(e) {
   e.preventDefault();
 
-  const formData = new FormData(this);
+  const form = this;
+  const submitBtn = form.querySelector("button[type='submit']");
+  const originalText = submitBtn.innerText;
+
+  submitBtn.disabled = true;
+  submitBtn.innerText = "Submitting...";
+
+  const formData = new FormData(form);
 
   fetch("https://script.google.com/macros/s/AKfycbxItC0NSGvqXegjDitYsAUDqnLRGnF2K4I5y0K8GXPxDtBaM58SqIfwyUHEtD3SRm8F/exec", {
     method: "POST",
@@ -155,12 +163,19 @@ document.getElementById("contactForm").addEventListener("submit", function(e) {
   })
   .then(res => res.text())
   .then(data => {
-    alert("Form submitted successfully!");
-    this.reset();
+    submitBtn.innerText = "Submitted";
+    form.reset();
+
+    // Reset button after 5 seconds
+    setTimeout(() => {
+      submitBtn.innerText = originalText;
+      submitBtn.disabled = false;
+    }, 5000);
   })
   .catch(err => {
-    alert("Submission failed");
     console.error(err);
+    submitBtn.innerText = originalText;
+    submitBtn.disabled = false;
   });
 });
 </script>
