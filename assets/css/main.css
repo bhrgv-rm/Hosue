@@ -26864,15 +26864,20 @@ html {
 }
 
 .fl-m{
-	display: grid;
-	grid-template-columns: repeat(auto, auto);
-	
+    display: grid;
+    gap: 4px;
+    grid-template-columns: auto auto;
+    justify-items: start;
+    justify-content: start;
+
 	.icon-sec{
 		display: flex;
+		gap: 4px;
+		font-weight: bold;
 		justify-content: center;
 		align-items: center;
 	}
-	
+
 	p{
 		font-family: "Plus Jakarta Sans";
 		font-size: 14px;
