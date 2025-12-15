@@ -330,7 +330,7 @@
               </div>
             </div>
             <div class="elements3">
-              <img src="/assets/img/elements/elements3.jpg" alt="">
+              <img src="/assets/img/elements3.png" alt="">
             </div>
           </div>
         </div>
