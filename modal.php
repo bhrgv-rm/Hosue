@@ -6,8 +6,7 @@
 
     <form id="contactForm">
       <input type="text" name="name" placeholder="Full Name" required>
-      <input type="tel" name="phone" placeholder="Phone Number" required>
-      <select name="Subject" required>
+    <input type="tel" name="phone" placeholder="Phone Number" required><select name="Subject" class="no-nice-select" required>
           <option value="">Select Enquiry*</option>
           <option value="site_visit">Schedule a Site Visit</option>
           <option value="price_details">Price & Cost Details</option>
@@ -22,3 +21,11 @@
     </form>
   </div>
 </div>
+
+
+<script>
+  $(document).ready(function () {
+  $('select').not('.no-nice-select').niceSelect();
+});
+
+</script>

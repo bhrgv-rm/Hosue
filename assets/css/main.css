@@ -26875,4 +26875,9 @@ html {
 .amenities-boxarea img{
 	background-color: #040908;
 }
+
+.no-nice-select {
+  display: block !important;
+}
+
 /*============= GALLERY CSS AREA ===============*/ /*# sourceMappingURL=main.css.map */
