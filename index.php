@@ -625,10 +625,18 @@
     <p>Please fill in the details below to continue browsing.</p>
 
     <form id="contactForm">
-      <input type="text" name="name" placeholder="Full Name" required>
-      <input type="email" name="email" placeholder="Email Address" required>
+      <input type="text" name="Name" placeholder="Full Name" required>
       <input type="tel" name="phone" placeholder="Phone Number" required>
-      <textarea name="message" placeholder="Your Message" required></textarea>
+      <select name="Subject" required>
+          <option value="">Select Enquiry*</option>
+          <option value="site_visit">Schedule a Site Visit</option>
+          <option value="price_details">Price & Cost Details</option>
+          <option value="floor_plans">Floor Plans & Layouts</option>
+          <option value="availability">Availability of Villas</option>
+          <option value="brochure_download">Download Brochure</option>
+          <option value="other">Other</option>
+        </select>
+      <textarea name="Message" placeholder="Your Message" required></textarea>
 
       <button type="submit">Submit</button>
     </form>

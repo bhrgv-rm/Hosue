@@ -6,8 +6,16 @@
 
     <form id="contactForm">
       <input type="text" name="name" placeholder="Full Name" required>
-      <input type="email" name="email" placeholder="Email Address" required>
       <input type="tel" name="phone" placeholder="Phone Number" required>
+      <select name="Subject" required>
+          <option value="">Select Enquiry*</option>
+          <option value="site_visit">Schedule a Site Visit</option>
+          <option value="price_details">Price & Cost Details</option>
+          <option value="floor_plans">Floor Plans & Layouts</option>
+          <option value="availability">Availability of Villas</option>
+          <option value="brochure_download">Download Brochure</option>
+          <option value="other">Other</option>
+        </select>
       <textarea name="message" placeholder="Your Message" required></textarea>
 
       <button type="submit">Submit</button>
